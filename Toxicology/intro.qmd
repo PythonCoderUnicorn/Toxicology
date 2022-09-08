@@ -59,12 +59,16 @@ A **[Toxic Symptom]()** includes any feeling or sign indicating the presence of 
  Before toxicity can develop, a substance must come into contact with a body surface such as skin, eye or mucosa of the digestive or respiratory tract. The dose of the chemical, or the amount one comes into contact with, is important when discussing how “toxic” an substance can be.
  
  
+ 
 What is a dose
  
- The dose is the actual amount of a chemical that enters the body. The dose received may be due to either acute (short) or chronic (long-term) exposure. An acute exposure occurs over a very short period of time, usually 24 hours. Chronic exposures occur over long periods of time such as weeks, months, or years. The amount of exposure and the type of toxin will determine the toxic effect.
+ 
+The dose is the actual amount of a chemical that enters the body. The dose received may be due to either acute (short) or chronic (long-term) exposure. An acute exposure occurs over a very short period of time, usually 24 hours. Chronic exposures occur over long periods of time such as weeks, months, or years. The amount of exposure and the type of toxin will determine the toxic effect.
+
 
 
 What is dose-response? 
+
 
 Dose-response is a relationship between
 exposure and health effect, that can be established by measuring the
@@ -73,12 +77,49 @@ determining the toxicity of a particular substance (2). It relies on the
 concept that a dose, or a time of exposure (to a chemical, drug, or toxic
 substance), will cause an effect (response) on the exposed organism.
 Usually, the larger or more intense the dose, the greater the response, or
-the effect. This is the meaning behind the statement “the dose makes the
-poison.”
+the effect. This is the meaning behind the statement “_the dose makes the
+poison._”
 
 
 
+What is the threshold dose? 
 
+
+Given the idea of a dose-response, there
+should be a dose or exposure level below which the harmful or adverse
+effects of a substance are not seen in a population. That dose is referred to
+as the ‘threshold dose’. This dose 1s also referred to as the no observed
+adverse effect level `(NOAEL)`, or the no effect level `(NEL)`. These terms
+are often used by toxicologists when discussing the relationship between
+exposure and dose. 
+
+For substances causing cancer (carcinogens) no safe level of exposure exists, since any exposure could result in cancer.
+
+
+What is ‘individual susceptibility?’
+
+This term describes the
+differences in types of responses to hazardous substances, between people.
+Each person is unique, and because of that, there may be great differences
+in the response to exposure. Exposure in one person may have no effect,
+while a second person may become seriously ill, and a third may develop
+cancer.
+
+
+What is “sensitive sub-population?” 
+
+A sensitive sub-population
+describes those persons who are more at risk from illness due to exposure
+to hazardous substances than the average, healthy person. 
+
+These persons usually include:
+
+- the very young
+- the chronically ill
+- the very old. 
+- pregnant women and women of childbearing age. 
+
+Depending on the type of contaminant, other factors (e.g., age, weight, lifestyle, sex) could be used to describe the population.
 
 
 

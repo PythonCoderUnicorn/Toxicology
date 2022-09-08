@@ -133,12 +133,14 @@ exposure and dose. However, for substances causing cancer
 
 (carcinogens), no safe level of exposure exists, since any exposure could
 result in cancer.
+
 a What is meant by ‘individual susceptibility?’ This term describes the
 differences in types of responses to hazardous substances, between people.
 Each person is unique, and because of that, there may be great differences
 in the response to exposure. Exposure in one person may have no effect,
 while a second person may become seriously ill, and a third may develop
 cancer.
+
 = What is a “sensitive sub-population?” A sensitive sub-population
 describes those persons who are more at risk from illness due to exposure
 to hazardous substances than the average, healthy person. These persons
@@ -146,6 +148,10 @@ usually include the very young, the chronically ill, and the very old. It may
 also include pregnant women and women of childbearing age. Depending
 on the type of contaminant, other factors (e.g., age, weight, lifestyle, sex)
 could be used to describe the population.
+
+
+
+
 B. The Field of Toxicology
 Toxicology addresses a variety of questions. For example, in agriculture, toxicology
 determines the possible health effects from exposure to pesticides or herbicides, or the
@@ -223,6 +229,13 @@ water or fatty tissues, all of which are important when trying to determine
 the way a toxic substance causes harm, and whether effects seen in
 animals can be expected in humans.
 
+
+
+
+
+
+
+
 II. Classification of Toxic Agents (2):
 Toxic substances are classified into the following:
 A. Heavy Metals
@@ -291,6 +304,10 @@ a Chemistry (aromatic amine, halogenated hydrocarbon), or
 22
 
 a Poisoning potential (extremely toxic, very toxic, slightly toxic)
+
+
+
+
 I. General Classifications of Interest to Communities
 
 a Aur pollutants
@@ -473,6 +490,12 @@ published in a booklet called Threshold Limit Values (TLVs) for Chemical Substan
 
 and Physical Agents and Biological Exposure Indices (6).
 
+
+
+
+
+
+
 G. Electronic Databases
 
 Information on toxic chemicals is available at the following sites:
@@ -485,11 +508,14 @@ more than 4,000 chemicals, as well as information on emergency handling
 procedures, environmental data, regulatory status, and human exposure.
 The RTECS is maintained by NIOSH and contains information on the
 health effects for more than 90,000 chemicals.
+
+
 a CHEMTREC (Chemical Transportation Emergency Center -
 www.chemtrec.org). CHEMTREC is provided by the American
 Chemistry Council (formerly known as the Chemical Manufacturer’s
 Association) and provides information and assistance for emergency
 incidents involving chemicals and hazardous materials. CHEMTREC also
+
 30
 
 supplies basic information about the production, shipping, and use of

@@ -1,0 +1,125 @@
+
+# Classification of Toxic Agents
+
+Toxic substances are classified into the following:
+
+- Heavy Metals
+- Solvents & Vapors
+- Radiation & Radioactive Materials
+- Dioxin / Furans
+- Pesticides
+- plant toxins
+- animal toxins
+- toxic substances
+
+
+###  Heavy Metals
+
+Metals differ from other toxic substances in that they are neither created nor destroyed by humans. Their use by humans plays an important role in determining their potential for health effects. Their effect on health could occur through at least two mechanisms: first, by increasing the presence of heavy metals in air, water, soil, and food, and second, by changing the structure of the chemical. For example, chromium III can be converted to or from chromium VI, the more toxic form of the metal.
+
+### Solvents and Vapors
+
+Nearly everyone is exposed to solvents. Occupational exposures can range from the use of “white-out” by administrative personnel, to the use of chemicals by technicians in a nail salon. When a solvent evaporates, the vapors may also pose a threat to the exposed population.
+
+
+###  Radiation and Radioactive Materials
+
+Radiation is the release and propagation of energy in space or through a material medium in the form of waves, the transfer of heat or light by waves of energy, or the stream of particles from a nuclear reactor
+
+### Dioxin / Furans
+
+Dioxin, (or TCDD) was originally discovered as a contaminant in the herbicide Agent Orange. Dioxin is also a by-product of chlorine processing in paper producing industries.
+
+### Pesticides
+
+The EPA defines pesticide as any substance or mixture of substances intended to prevent, destroy, repel, or mitigate any pest. Pesticides may also be described as any physical, chemical, or biological agent that will kill an undesirable plant or animal pest
+
+
+### Plant Toxins
+
+Different portions of a plant may contain different concentrations of chemicals. Some chemicals made by plants can be lethal. For example, taxon, used in chemotherapy to kill cancer cells, is produced by a species of the yew plant.
+
+
+
+### Animal Toxins 
+
+These toxins can result from venomous or poisonous animal releases. Venomous animals are usually defined as those that are capable of producing a poison in a highly developed gland or group of cells, and can deliver that toxin through biting or stinging. Poisonous animals are generally regarded as those whose tissues, either in part or in their whole, are toxic.
+
+
+### Subcategories of Toxic Substance Classifications
+
+Each of these are classified based on their own criteria:
+
+- Effect on target organs (liver, kidney, hematopoietic system),
+- Use (pesticide, solvent, food additive),
+- Source of the agent (animal and plant toxins),
+- Effects (cancer mutation, liver injury),
+- Physical state (gas, dust, liquid),
+- Labeling requirements (explosive, flammable, oxidizer),
+- Chemistry (aromatic amine, halogenated hydrocarbon), or
+- Poisoning potential (extremely toxic, very toxic, slightly toxic)
+
+
+## General Classifications of Interest to Communities
+
+- Air pollutants
+- Occupation-related
+- Acute and chronic poisons
+
+All chemicals (or any chemical) may be poisonous at a given dose and through a
+particular route. For example, breathing too much pure oxygen, drinking excessive
+amounts of water, or eating too much salt can cause poisoning or death
+
+
+### Electronic Databases
+
+Information on toxic chemicals is available at the following sites:
+
+-  [TOXNET](www.toxnet.nlm.nih.gov) Toxicology Data Network. Several
+  databases, such as:
+    - the Hazardous Substances Data Bank (HSDB) 
+    - Registry of Toxic Effects of Chemical Substances (RTECS) contains information        on the health effects for more than 90,000 chemicals.
+    - The HSDB has toxicological information on more than 4,000 chemicals, 
+      as well as information on emergency handling procedures, environmental data,         regulatory status, and human exposure.
+
+- [CHEMTREC](www.chemtrec.org) (Chemical Transportation Emergency Center). 
+  CHEMTREC is provided by the American Chemistry Council and provides 
+  information and assistance for emergency incidents involving chemicals and
+  hazardous materials. 
+  
+- [MSDS](www.osha.gov.) Material Safety Data Sheets are available
+  on the Occupational Safety and Health Administration website.
+  MSDS provide information such as physical and chemical properties of a
+  substance, first aid information, emergency response, and disposal information.
+
+- [HazDat](www.atsdr.cdc.gov) Hazardous Substances and Health Effects Database,        contains information on hazardous substances found at
+  National Priorities List (NPL) and non-NPL waste sites and emergency events, 
+  and on the levels at which
+  health effects from exposure to hazardous substances have been reported in humans    and animals. HAZDAT contains environmental contamination and other data on more      than 3,000 uncontrolled hazardous waste sites. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
