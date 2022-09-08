@@ -1,0 +1,757 @@
+Module One
+Introduction to Toxicology
+1]
+
+Module One
+Introduction to Toxicology
+Time Allotted: 90 Minutes
+Objectives:
+Upon completion of this module, the learner will be able to
+a Define toxicology and commonly associated terms
+a Differentiate the sub-disciplines of toxicology
+a Describe the classifications of toxic agents
+a Describe the field of toxicology and its application when assessing health effects
+associated with toxic agents commonly found at hazardous waste sites
+a Understand the roles and responsibilities of various agencies
+a Identify potential sources for additional information
+12
+
+Presentation Outline
+I. Introduction to Toxicology
+A. What is Toxicology?
+B. The Field of Toxicology
+C. Sub-Disciplines of Toxicology
+Il. Classification of Toxic Agents
+A. Heavy Metals
+B. Solvents and Vapors
+C. Radiation and Radioactive Materials
+D. Dioxin/Furans
+E. Pesticides
+F. Plant Toxins
+G. Animal Toxins
+H. Subcategories of Toxic Substances
+I. General Classifications of Interest to Communities
+HI. Toxicological Information Sources
+A. The Agency for Toxic Substances and Disease Registry
+B. The United States Environmental Protection Agency
+C. The Centers for Disease Control and Prevention
+D. The Nuclear Regulatory Commission
+E. The Food and Drug Administration
+F. The American Conference of Governmental Industrial Hygienists
+G. Electronic Databases
+IV. Contact Information
+V. Test Your Knowledge Quiz
+VI. Activity Lab
+VII. Question and Answer Period
+13
+
+Lecture Notes
+I. Introduction to Toxicology (1)
+A. What is Toxicology?
+Toxicology 1s the study of how natural or man-made poisons cause undesirable effects in
+living organisms.
+
+a What are harmful or adverse effects? Harmful or adverse effects are
+those that are damaging to either the survival or normal function of the
+individual.
+
+a What is Toxicity? The word “toxicity” describes the degree to which a
+substance 1s poisonous or can cause injury. The toxicity depends on a
+variety of factors: dose, duration and route of exposure (see Module Two),
+shape and structure of the chemical itself, and individual human factors.
+
+@ Refer to Handout 1-1 - Generaldiagram of routes of exposure and Moduk Two - Routes of Exposure
+
+a What is Toxic? This term relates to poisonous or deadly effects on the
+body by inhalation (breathing), ingestion (eating), or absorption, or by
+direct contact with a chemical.
+
+a What is a Toxicant? A toxicant is any chemical that can injure or kill
+humans, animals, or plants; a poison. The term “toxicant” is used when
+talking about toxic substances that are produced by or are a by-product of
+human-made activities. For example, dioxin (2,3-7,8-tetrachlorodibenzo-
+p-dioxin {TCDD}), produced as a by-product of certain chlorinated
+chemicals, 1s a toxicant. On the other hand, arsenic, a toxic metal, may
+
+14
+
+occur as a natural contaminant of groundwater or may contaminate
+groundwater as a by-product of industrial activities. If the second case 1s
+true, such toxic substances are referred to as toxicants, rather than toxins.
+
+a What is a Toxin? The term “toxin” usually 1s used when talking about
+toxic substances produced naturally. A toxin is any poisonous substance
+of microbial (bacteria or other tiny plants or animals), vegetable, or
+synthetic chemical origin that reacts with specific cellular components to
+kill cells, alter growth or development, or kill the organism.
+
+a What is a Toxic Symptom? This term includes any feeling or sign
+indicating the presence of a poison in the system.
+
+a What are Toxic Effects? This term refers to the health effects that occur
+due to exposure to a toxic substance; also known as a poisonous effect on
+the body.
+
+a What is Selective Toxicity? “Selective toxicity” means that a chemical
+will produce injury to one kind of living matter without harming another
+form of life, even though the two may exist close together.
+
+a How Does Toxicity Develop? Before toxicity can develop, a substance
+must come into contact with a body surface such as skin, eye or mucosa of
+the digestive or respiratory tract. The dose of the chemical, or the amount
+one comes into contact with, is important when discussing how “toxic” an
+substance can be.
+
+15
+
+a What is a dose? The dose is the actual amount of a chemical that enters
+the body. The dose received may be due to either acute (short) or chronic
+(long-term) exposure. An acute exposure occurs over a very short period
+of time, usually 24 hours. Chronic exposures occur over long periods of
+time such as weeks, months, or years. The amount of exposure and the
+type of toxin will determine the toxic effect.
+
+= What is dose-response? Dose-response is a relationship between
+exposure and health effect, that can be established by measuring the
+response relative to an increasing dose. This relationship 1s important in
+determining the toxicity of a particular substance (2). It relies on the
+concept that a dose, or a time of exposure (to a chemical, drug, or toxic
+substance), will cause an effect (response) on the exposed organism.
+Usually, the larger or more intense the dose, the greater the response, or
+the effect. This is the meaning behind the statement “the dose makes the
+poison.”
+
+a What is the threshold dose? Given the idea of a dose-response, there
+should be a dose or exposure level below which the harmful or adverse
+effects of a substance are not seen in a population. That dose is referred to
+as the ‘threshold dose’. This dose 1s also referred to as the no observed
+adverse effect level (NOAEL), or the no effect level (NEL). These terms
+are often used by toxicologists when discussing the relationship between
+exposure and dose. However, for substances causing cancer
+
+16
+
+(carcinogens), no safe level of exposure exists, since any exposure could
+result in cancer.
+a What is meant by ‘individual susceptibility?’ This term describes the
+differences in types of responses to hazardous substances, between people.
+Each person is unique, and because of that, there may be great differences
+in the response to exposure. Exposure in one person may have no effect,
+while a second person may become seriously ill, and a third may develop
+cancer.
+= What is a “sensitive sub-population?” A sensitive sub-population
+describes those persons who are more at risk from illness due to exposure
+to hazardous substances than the average, healthy person. These persons
+usually include the very young, the chronically ill, and the very old. It may
+also include pregnant women and women of childbearing age. Depending
+on the type of contaminant, other factors (e.g., age, weight, lifestyle, sex)
+could be used to describe the population.
+B. The Field of Toxicology
+Toxicology addresses a variety of questions. For example, in agriculture, toxicology
+determines the possible health effects from exposure to pesticides or herbicides, or the
+effect of animal feed additives, such as growth factors, on people. Toxicology is also used
+in laboratory experiments on animals to establish dose-response relationships. Toxicology
+also deals with the way chemicals and waste products affect the health of an individual.
+17
+
+C. Sub-disciplines of Toxicology
+The field of toxicology can be further divided into the following sub-disciplines or sub-
+specialities:
+
+a Environmental Toxicology is concerned with the study of chemicals that
+contaminate food, water, soil, or the atmosphere. It also deals with toxic
+substances that enter bodies of waters such as lakes, streams, rivers, and
+oceans. This sub-discipline addresses the question of how various plants,
+animals, and humans are affected by exposure to toxic substances.
+
+= Occupational (Industrial) Toxicology is concerned with health effects from
+exposure to chemicals in the workplace. This field grew out of a need to
+protect workers from toxic substances and to make their work
+environment safe. Occupational diseases caused by industrial chemicals
+account for an estimated 50,000 to 70,000 deaths, and 350,000 new cases
+of illness each year in the United States (1).
+
+a Regulatory Toxicology gathers and evaluates existing toxicological
+information to establish concentration-based standards of “safe” exposure.
+The standard is the level of a chemical that a person can be exposed to
+without any harmful health effects.
+
+a Food Toxicology is involved in delivering a safe and edible supply of food
+to the consumer. During processing, a number of substances may be added
+to food to make it look, taste, or smell better. Fats, oils, sugars, starches
+and other substances may be added to change the texture and taste of food.
+
+18
+
+All of these additives are studied to determine 1f and at what amount, they
+may produce adverse effects. A second area of interest includes food
+allergies. Almost 30% of the American people have some food allergy. For
+example, many people have trouble digesting milk, and are lactose
+intolerant. In addition, toxic substances such as pesticides may be applied
+to a food crop in the field, while lead, arsenic, and cadmium are naturally
+present in soil and water, and may be absorbed by plants. Toxicologists
+must determine the acceptable daily intake level for those substances.
+
+a Clinical Toxicology is concerned with diseases and illnesses associated
+with short term or long term exposure to toxic chemicals. Clinical
+toxicologists include emergency room physicians who must be familiar
+with the symptoms associated with exposure to a wide variety of toxic
+substances 1n order to administer the appropriate treatment.
+
+a Descriptive Toxicology is concerned with gathering toxicological
+information from animal experimentation. These types of experiments are
+used to establish how much of a chemical would cause illness or death.
+The United States Environmental Protection Agency (EPA), the
+Occupational Safety and Health Administration (OSHA), and the Food
+and Drug Administration (FDA), use information from these studies to set
+regulatory exposure limits.
+
+19
+
+a Forensic Toxicology is used to help establish cause and effect
+relationships between exposure to a drug or chemical and the toxic or
+lethal effects that result from that exposure.
+
+a Analytical toxicology identifies the toxicant through analysis of body
+fluids, stomach content, excrement, or skin.
+
+a Mechanistic Toxicology makes observations on how toxic substances
+cause their effects. The effects of exposure can depend on a number of
+factors, including the size of the molecule, the specific tissue type or
+cellular components affected, whether the substance is easily dissolved in
+water or fatty tissues, all of which are important when trying to determine
+the way a toxic substance causes harm, and whether effects seen in
+animals can be expected in humans.
+
+II. Classification of Toxic Agents (2):
+Toxic substances are classified into the following:
+A. Heavy Metals
+Metals differ from other toxic substances in that they are neither created nor destroyed by
+humans. Their use by humans plays an important role in determining their potential for
+health effects. Their effect on health could occur through at least two mechanisms: first,
+by increasing the presence of heavy metals in air, water, soil, and food, and second, by
+changing the structure of the chemical. For example, chromium III can be converted to or
+from chromium VI, the more toxic form of the metal.
+
+20
+
+B. Solvents and Vapors
+Nearly everyone 1s exposed to solvents. Occupational exposures can range from the use
+of “white-out” by administrative personnel, to the use of chemicals by technicians in a
+nail salon. When a solvent evaporates, the vapors may also pose a threat to the exposed
+population.
+@ Have particpants dscuss possbk solents they use ormay be exoosed to dumng the course of a typical day.
+C. Radiation and Radioactive Materials
+Radiation is the release and propagation of energy 1n space or through a material medium
+in the form of waves, the transfer of heat or light by waves of energy, or the stream of
+particles from a nuclear reactor (3).
+@ An exampek for discussion purposes would be the dropp;nng of the atom ic bomb durng Word War J, or the
+Chemobyl Accident nm Russa. These tems can be provided by the presenter.
+D. Dioxin/Furans
+Dioxin, (or TCDD) was originally discovered as a contaminant in the herbicide Agent
+Orange. Dioxin is also a by-product of chlorine processing in paper producing industries.
+E. Pesticides
+The EPA defines pesticide as any substance or mixture of substances intended to prevent,
+destroy, repel, or mitigate any pest. Pesticides may also be described as any physical,
+chemical, or biological agent that will kill an undesirable plant or animal pest (2).
+@ Have participants Ist pestcitles they are fam ilar with either through personaluse or n webton to hazardous
+chem crak n ther comm unty.
+21
+
+F. Plant Toxins (2)
+Different portions of a plant may contain different concentrations of chemicals. Some
+chemicals made by plants can be lethal. For example, taxon, used in chemotherapy to kill
+cancer cells, is produced by a species of the yew plant.
+G. Animal Toxins (2)
+These toxins can result from venomous or poisonous animal releases. Venomous animals
+are usually defined as those that are capable of producing a poison in a highly developed
+gland or group of cells, and can deliver that toxin through biting or stinging. Poisonous
+animals are generally regarded as those whose tissues, either in part or in their whole, are
+toxic.
+@ Taner may want to provie examples of venomous animals, such as snakes, spiders, etc., and poisonous animals,
+such as puffer fish, or oysters, which may be toxt to some indivilua’s when contam inated with vibrb whifbus.
+
+H. Subcategories of Toxic Substance Classifications
+All of these substances may also be further classified according to their:
+
+a Effect on target organs (liver, kidney, hematopoietic system),
+
+= Use (pesticide, solvent, food additive),
+
+= Source of the agent (animal and plant toxins),
+
+a Effects (cancer mutation, liver injury),
+
+a Physical state (gas, dust, liquid),
+
+a Labeling requirements (explosive, flammable, oxidizer),
+
+a Chemistry (aromatic amine, halogenated hydrocarbon), or
+
+22
+
+a Poisoning potential (extremely toxic, very toxic, slightly toxic)
+I. General Classifications of Interest to Communities
+
+a Aur pollutants
+
+= Occupation-related
+
+a Acute and chronic poisons
+All chemicals (or any chemical) may be poisonous at a given dose and through a
+particular route. For example, breathing too much pure oxygen, drinking excessive
+amounts of water, or eating too much salt can cause poisoning or death (1).
+
+HI. Toxicological Information Sources (4)
+A. The Agency for Toxic Substances and Disease Registry (ATSDR)
+ATSDR is part of the U.S. Department of Health and Human Services. It was created by
+Congress in 1980 to provide health-based information for use in the cleanup of chemical
+waste disposal sites mandated by the Comprehensive Environmental Response,
+Compensation, and Liability Act (CERCLA). As the lead agency for implementing the
+health-related guidelines of CERCLA, ATSDR assesses the presence and nature of health
+hazards at specific Superfund Sites, to help prevent or reduce further exposure and the
+illnesses that result from such exposures, and to expand the knowledge-base about health
+effects from exposure to hazardous substances.
+ATSDR 1s mostly concerned with the health effects that may occur from exposure to
+toxic chemicals. ATSDR’s Hazardous Substances and Health Effects Database (HazDat)
+23
+
+discusses the issue. ATSDR also publishes Toxicological Profiles (which provide
+information on specific chemicals and possible health effects), Case Studies in
+Environmental Medicine (which are used to provide information to health care providers
+about the toxic effects of chemicals), and Public Health Statements (which contain
+information on toxic chemical exposures)(4).
+ATSDR’s Division of Toxicology also produces ToxFAQs’™, a series of summaries
+about hazardous substances. Information for this series 1s excerpted from the ATSDR
+Toxicological Profiles and Public Health Statements. Each ToxFAQ summary is quick
+and easy to understand, and answers the most frequently asked questions (FAQs) about
+exposure to hazardous substances found around hazardous waste sites and the effects of
+exposure on human health. Medical Management Guidelines for Acute Chemical
+Exposures (Guidelines) were developed by ATSDR to aid emergency department
+physicians and other emergency healthcare professionals who manage acute exposures
+resulting from chemical incidents. The guidelines are intended to aid healthcare
+professionals involved in emergency response to effectively decontaminate patients,
+protect themselves and others from contamination, communicate with other involved
+personnel, efficiently transport patients to a medical facility, and provide competent
+medical evaluation and treatment to exposed persons.
+
+24
+
+B. The United States Environmental Protection Agency (EPA)
+EPA is responsible for a number of activities, including enforcing federal laws designed
+to protect human health and the environment. There are ten regional EPA offices
+throughout the United States, with EPA headquarters located in Washington, D.C. Each
+regional office 1s responsible within selected states for implementing the agency’s
+programs, considering regional needs and implementing federal environmental laws.
+Following is a list of the regions and the states they cover.
+@ Refer to Figure 1.1 - Map of EPA Regional Offices.
+a Region |: Connecticut, Maine, Massachusetts, New Hampshire, Rhode
+Island, Vermont
+a Region 2: New Jersey, New York, Puerto Rico, and the U.S. Virgin
+Islands
+a Region 3: Delaware, Maryland, Pennsylvania, Virginia, West Virginia, the
+District of Columbia
+a Region 4: Alabama, Florida, Georgia, Kentucky, Mississippi, North
+Carolina, South Carolina, Tennessee
+a Region 5: Illinois, Indiana, Michigan, Minnesota, Ohio, Wisconsin
+a Region 6: Arkansas, Louisiana, New Mexico, Oklahoma, Texas
+a Region 7: Iowa, Kansas, Missouri, Nebraska
+a Region 8: Colorado, Montana, North Dakota, South Dakota, Utah,
+Wyoming
+25
+
+a Region 9: Arizona, California, Hawaii, Nevada, the territories of Guam
+and American Samoa
+
+a Region 10: Alaska, Idaho, Oregon, Washington
+
+The specific chemicals regulated by EPA and the standards associated with them are
+found in the Code of Federal Regulations or CFR. The different sections of the CFR are
+called Titles, and the ones that apply to EPA are in Title 40 (1). EPA has developed rules
+and regulations that activate the requirements of several environmental laws provided
+below.
+
+@ Trainer Note: Refer to Tabk 11 whith * a Istof sekcted EPA hws that regubte chem cab ‘4 the environment.
+In addition, the following EPA Laws regulate chemicals in the environment:
+
+a The Clean Air Act implements regulations that control and abate air
+emissions from stationary and mobile sources.
+
+a The Clean Water Act regulates discharge of pollutants to surface waters.
+
+a The Safe Drinking Water Act establishes standards for contaminants in
+drinking water; regulates discharges to underground injection wells, sole
+source aquifers, and public drinking water systems.
+
+a The Comprehensive Environmental Response, Compensation, and
+Liability Act (CERCLA or Superfund) deals with cleanup of hazardous
+waste sites and definition of requirements for response to hazardous waste
+spills.
+
+26
+
+a The Resource Conservation and Recovery Act (RCRA) deals with
+identification and regulation of hazardous waste treatment, storage, and
+disposal.
+
+a The Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) requires
+registration and testing of pesticides, regulates their sale, distribution, and
+use.
+
+a The Toxic Substances Control Act (TSCA) requires testing and reporting
+of chemicals prior to manufacturing, distribution, and use; and restricts the
+use of chemicals that pose a threat to human health and the environment.
+
+a The Emergency Planning and Community Right to Know Act (EPCRA)
+requires companies to report inventories of hazardous chemicals and toxic
+releases; and requires state and local governments to develop plans for
+responding to emergency releases.
+
+In addition, EPA’s Office of Research and Development (ORD) studies the effects of
+toxic exposure on people and the environment.
+C. The Centers for Disease Control and Prevention (CDC)
+C DC 1s an agency in the Department of Health and Human Services, its mission is to
+promote health and quality of life by preventing and controlling disease, injury, and
+disability. In the past, the CDC has focused on the study and prevention of infectious
+diseases such as malaria and smallpox. However, now its responsibilities have enlarged to
+include environmental and occupational hazards.
+
+27
+
+@ Refer particpants to Tabk 12 Candout 13) - CDC Organizational O fives
+The CDC Centers that deal with environmental health are the National Center for
+Environmental Health (NCEH) and the National Institute for Occupational Safety and
+Health (NIOSH) (2). NCEH addresses hazards associated with chemical exposure inside
+and outside the workplace. NIOSH was established by the Occupational Safety and
+Health Act of 1970. NIOSH has several functions, including investigating potentially
+hazardous work conditions, and evaluating chemical hazards in the workplace. NIOSH is
+the only federal institute responsible for conducting research and making
+recommendations for the prevention of work-related illnesses and injuries. NIOSH’s
+responsibilities include:
+a Investigating potentially hazardous working conditions as requested by
+employers or employees,
+a Evaluating hazards in the workplace, ranging from chemicals to
+machinery,
+a Creating and disseminating methods for preventing disease, injury, and
+disability,
+a Conducting research and providing scientifically valid recommendations
+for protecting workers; and
+a Providing education and training to individuals preparing for or actively
+working in the field of occupational safety and health.
+28
+
+Information gathered from these activities is used to help reduce disease, injury
+and disability in the workplace. The information is provided to OSHA, which uses
+it to establish standards to protect health in the workplace.
+D. The Nuclear Regulatory Commission (NRC) (1)
+NRC, established in 1974, regulates the use of nuclear materials for commercial,
+industrial, academic, and medical purposes. This includes regulating nuclear power
+plants, nuclear materials used in the diagnosis and treatment of cancer, and nuclear
+materials used in smoke detectors. NRC also regulates non-power research, test and
+training reactors; nuclear fuel cycle facilities (the production of nuclear fuel); and the
+transport, storage, and disposal of nuclear materials and waste. Like OSHA and EPA,
+NRC obtains and evaluates information about acceptable exposure levels for workers
+handling nuclear materials.
+E. The Food and Drug Administration (FDA) (5)
+FDA promotes and protects the public health by helping safe and effective products reach
+the market in a timely way, and monitoring products for continued safety after they are in
+use.
+F. The American Conference of Governmental Industrial Hygienists (ACGIH)
+ACGIH 1s a professional organization that produces a listing of Threshold Limit Values
+(TLV) and Biological Exposure Indices (BEI) for several hundred chemicals, updating
+29
+
+them every year. BEIs are recommended maximum concentrations of various types of
+
+toxic substances, and are guidelines to evaluate the potential health hazards associated
+
+with exposure. The maximum concentration may be measured in blood, urine, or exhaled
+
+air. The TLVs are guidelines for occupational exposure to hazardous chemicals and are
+
+published in a booklet called Threshold Limit Values (TLVs) for Chemical Substances
+
+and Physical Agents and Biological Exposure Indices (6).
+
+G. Electronic Databases
+
+Information on toxic chemicals is available at the following sites:
+
+a Toxicology Data Network (TOXNET - www.toxnet.nlm.nih.gov). Several
+databases, such as the Hazardous Substances Data Bank (HSDB) and the
+Registry of Toxic Effects of Chemical Substances (RTECS), can be found
+in the TOXNET database. The HSDB has toxicological information on
+more than 4,000 chemicals, as well as information on emergency handling
+procedures, environmental data, regulatory status, and human exposure.
+The RTECS is maintained by NIOSH and contains information on the
+health effects for more than 90,000 chemicals.
+a CHEMTREC (Chemical Transportation Emergency Center -
+www.chemtrec.org). CHEMTREC is provided by the American
+Chemistry Council (formerly known as the Chemical Manufacturer’s
+Association) and provides information and assistance for emergency
+incidents involving chemicals and hazardous materials. CHEMTREC also
+30
+
+supplies basic information about the production, shipping, and use of
+chemicals and provides information about medical treatment in response
+to chemical exposures.
+
+a Material Safety Data Sheets (MSDS) are available on the Occupational
+Safety and Health Administration website: www.osha.gov. MSDSs
+provide information such as physical and chemical properties of a
+substance, first aid information, emergency response, and disposal
+information.
+
+a Hazardous Substances and Health Effects Database (HazDat), available on
+ATSDR’s website at www.atsdr.cdc.gov. contains information on
+hazardous substances found at National Priorities List (NPL) and non-NPL
+waste sites and emergency events, and on the levels at which health effects
+from exposure to hazardous substances have been reported in humans and
+animals. HAZDAT contains environmental contamination and other data
+on more than 3,000 uncontrolled hazardous waste sites for which ATSDR
+has conducted public health assessments, prepared health consultations, or
+provided responses to emergencies involving releases of toxic substances
+into community environments. It contains toxicity information taken from
+the ATSDR’s Toxicological Profiles for more than 200 substances most
+frequently found at sites (4).
+
+31
+
+IV. Contact Information
+Agency for Toxic Substances and Disease Registry (ATSDR)
+1600 Clifton Road, NE
+Atlanta, Georgia 30333
+1-888-42-ATSDR or 1-888-422-8737
+Web site: http://www.atsdr.cdc.gov
+American Conference of Government Industrial Hygienists (ACGIH)
+1330 Kemper Meadow Drive, Suite 6000
+Cincinnati, OH 45240
+513-742-2020
+Web site:_http://www.acgih.org
+Association of Occupational and Environmental Clinics (AOEC)
+1010 Vermont Avenue, NW, Suite 513
+Washington, DC 20005
+(202) 347-4976
+Web site: http://www.aeoc.org
+Centers for Disease Control and Prevention (CDC)
+1600 Clifton Rd.
+Atlanta, GA 30333
+1-800-311-3455
+Web site: http://www.cdc.gov
+National Institute of Environmental Health Sciences (NIEHS)
+P.O. Box 12233
+Research Triangle Park, NC 27709 or
+111 Alexander Drive
+Research Triangle Park, NC 27709
+(919) 541-3345
+Web site: http://www.niehs.nih.gov
+National Toxicology Program (NTP)
+P.O. Box 12233
+M.D. B2-04
+Research Triangle Park, NC 27709
+(919) 541-0530
+Web site: http://ntp-server.niehs.nig.gov
+32
+
+Occupational Safety and Health Administration (OSHA)
+Directorate of Technical Support
+Technical Data Center, Room N-2634
+200 Constitution Avenue, N.W.
+Washington, DC 20210
+1-800-321-OSHA or 1-800-321-6742
+Web site: http://www.osha.gov
+U.S. Environmental Protection Agency (EPA)
+Ariel Rios Building
+1200 Pennsylvania Avenue, N.W.
+Washington, DC 20460
+(202) 260-2090
+Web site: http://www.epa.gov
+U.S. Food and Drug Administration (FDA)
+5600 Fishers Lane
+Rockville, Maryland 20857
+1-888-INFO-FDA (1-888-463-6332)
+Web site: http://www.FDA.Gov
+U.S. Nuclear Regulatory Commission (NRC)
+One White Flint North
+11555 Rockville Pike
+Rockville, MD 20852-2738
+(301) 415-7000
+Web site: http://www.nrc.gov
+33
+
+V. Test Your Knowledge Quiz
+
+1. Which of these groups is usually designated as one of the most sensitive sub-populations
+for exposures to toxic substances?
+a. Adult women c. Adult men
+b. Infants d. Adolescents
+
+2. You have worked at a chemical facility for 10 years. The facility does not require
+protective equipment, and you have developed a number of serious health affects in the
+last 7 years. You are possibly experiencing what type of exposure’?
+a. Chronic b. Acute
+
+3. You are worried about contamination of vegetables grown in contaminated soils. What
+type of toxicologist would you contact?
+a. Descriptive b. Environmental
+c. Regulatory d. Food
+
+4. You are concerned about risks associated with growing vegetables in soil with high lead
+and arsenic concentrations. You are speaking of what type of substance’?
+a. Toxin b. Toxicant
+
+5. The larger the amount of exposure and the greater the dose, the greater the observed
+response, or effect.
+a. True b. False
+
+6. What type of toxicologist takes samples of your blood, urine and hair for testing?
+a. Descriptive b. Analytical
+c. Mechanistic d. Forensic
+
+7. Toxic agents can be classified in terms of their physical state, their effects, and their
+source.
+a. True b. False
+
+34
+
+8. Which agency deals with the health effects that may occur from environmental exposure
+to toxic chemicals?
+a. The Environmental Protection Agency
+b. The Centers for Disease Control and Prevention
+c. The Agency for Toxic Substances and Disease Registry
+d. The Nuclear Regulatory Commission
+9, Which database has information on emergency handling procedures, environmental data,
+regulatory status and human exposure?
+a. TOXNET
+b. HazDat
+c. IRIS
+d. CHEMTREC
+10. HazDat contains information on hazardous substances found at NPL and non-NPL waste
+sites, and on emergency events.
+a. True b. False
+11. The no observed adverse effect level (NOAEL) 1s the same as the no effect level (NEL).
+a. True b. False
+12. The term toxicant is used when talking about toxic substances that are produced by or are
+a by-product of human-made activities.
+a. True b. False
+35
+
+VI. Activity Lab
+In small groups, complete the toxicology cross-word puzzle, using the knowledge gained through
+this module.
+aaa _
+= BERR
+oS See
+“LE Lo
+oS eeeeese|h|hCUre
+PUZZLE QUESTIONS
+Across
+1 toxic substances produced naturally
+4 contains information on hazardous substances found at NPL and non-NPL sites
+6 the dose or exposure level below which the harmful or adverse effects of a substance
+are not seen in a population
+7 the differences between two or more persons in the level of their response to exposure
+8 implements regulations that control and abate air emissions from stationary and
+mobile sources
+11 the act of coming into contact with a hazardous substance
+12 long-term exposure
+36
+
+Down
+
+2 no observed adverse effect level
+
+3 short-term exposure, usually less than 24 hours
+
+5 any chemical that can injure or kill humans, animals, or plants: a poison
+
+6 toxicology data network
+
+9 examines the health effects from exposure to contaminants at NPL and non-NPL sites
+
+10 poisonous or deadly effects on the body by inhalation, ingestion, absorption, or
+
+contact with a chemical
+
+11 deals with the environmental impacts of exposure to hazardous substances
+
+VI. Question and Answer Period
+37
+
+HANDOUTS and VISUAL AIDS
+MODULE I
+38
+
+Figure 1.1 — Map or EPA Regional Offices
+| a
+FG -
+3
+£3 ‘
+2 7
+6 |
+10 [2 | seme
+1“ Onn
+OR
+Region 1 — Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont
+Region 2 - New Jersey, New York, Puerto Rico and the U.S. Virgin Islands
+Region 3 — Delaware, Maryland, Pennsylvania, Virginia, West, and the District of Columbia
+Region 4— Alabama, Florida, Georgia, Kentucky, Mississippi, North Carolina, South Carolina,
+and Tennessee
+Region 5 — Illinois, Indiana, Michigan, Minnesota, Ohio, and Wisconsin
+Region 6— Arkansas, Louisiana, New Mexico, Oklahoma, and Texas
+Region 7 — Iowa, Kansas, Missouri, and Nebraska
+Region 8 — Colorado, Montana, North Dakota, South Dakota, Utah, and Wyoming
+Region 9 — Arizona, California, Hawai, Nevada, and the territories of Guam and American
+Samoa
+Region 10 — Alaska, Idaho, Oregon, and Washington
+40
+
+Table 1.1 Selected EPA Environmental Laws
+Name Acronym Date Purpose
+CAA Implements regulations that control and abate air emissions
+Clean Air Act 1970 from stationary and mobile sources
+Regulates discharge of pollutants to surface waters.
+Clean Water Act CWA 1972
+Establishes standards for contaminants in drinking water;
+
+Safe Drinking Water Act SDWA 1974 regulates discharges to underground injection wells,
+sole source aquifers, and public drinking water
+systems.
+
+Comprehensive Environmental CERCLA 1980 Cleanup of hazardous waste sites and definition of
+Response, Compensation, and requirements for response to hazardous waste spills.
+Liability Act (Superfund)
+
+Resource Conservation and RCRA 1976 Identification and regulation of hazardous waste treatment,
+Recovery Act storage, and disposal.
+
+Federal Insecticide, Fungicide, and FIFRA 1948 Requires registration and testing of pesticides; regulates
+Rodenticide Act their sale, distribution, and use.
+
+Toxic Substances Control Act TSCA 1976 Requires testing and reporting of chemicals prior to
+manufacturing, distribution, and use; restricts the use
+of chemicals that pose a threat to human health and
+the environment.
+
+Emergency Planning and EPCRA 1986 Requires companies to report inventories of hazardous
+
+Community Right to Know chemicals and toxic releases; requires state and local
+Act governments to develop plans for responding to
+emergency releases.
+41
+
+Table 1.2 Organizations Within the Centers for Disease Control and
+Prevention (CDC)
+National Institute of Occupational Safety and Health
+| National Center for Environmental Health |
+| National Center for Health Statistics |
+| National Center for Infectious Disease |
+| National Center for Injury Prevention and Control |
+| National Center for Prevention Services |
+| National Institute for Occupational Safety and Health |
+| Epidemiology Program Office |
+| International Health Program Office |
+| Public Health Practice Program Office |
+| National Immunization Program |
+42
+

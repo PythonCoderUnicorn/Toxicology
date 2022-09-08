@@ -1,0 +1,93 @@
+# Introduction
+
+## What is Toxicology
+
+Toxicology is the study of how natural or man-made poisons cause undesirable effects in living organisms.
+
+### Harmful vs Adverse
+
+Harmful or adverse effects are those that are damaging to either the survival or normal function of the individual.
+
+### Toxicity
+
+The word “toxicity” describes the degree to which a substance is poisonous or can cause injury. The toxicity depends on a variety of factors: dose, duration and route of exposure, shape and structure of the chemical itself, and individual human factors.
+
+### What _is_ toxic
+
+This term relates to poisonous or deadly effects on: 
+
+- the body by inhalation (breathing)
+- ingestion (eating)
+- absorption
+- by direct contact with a chemical.
+
+
+### Toxicant 
+
+A toxicant is any chemical that can injure or kill
+humans, animals, or plants; a poison.
+
+The term “**toxicant**” is used when talking about toxic 
+substances that are produced by or are a by-product of human-made activities.
+
+Examples include dioxin and arsenic, both are toxicants
+
+
+### Toxin
+
+The term “**toxin**” usually is used when talking about toxic substances produced naturally. 
+
+A toxin is any poisonous substance of:
+
+- microbial (bacteria or other tiny plants or animals) or
+- vegetable or 
+- synthetic chemical origin that reacts with specific cellular components to kill cells, alter growth or development, or kill the organism.
+
+
+A **[Toxic Symptom]()** includes any feeling or sign indicating the presence of a poison in the system
+
+
+**[Toxic Effects]()** This term refers to the health effects that occur due to exposure to a toxic substance; also known as a poisonous effect on the body.
+
+
+**[Selective Toxicity]()**  a chemical will produce injury to one kind of living matter without harming another form of life, even though the two may exist close together.
+
+
+
+### Toxicity Development
+
+ Before toxicity can develop, a substance must come into contact with a body surface such as skin, eye or mucosa of the digestive or respiratory tract. The dose of the chemical, or the amount one comes into contact with, is important when discussing how “toxic” an substance can be.
+ 
+ 
+What is a dose
+ 
+ The dose is the actual amount of a chemical that enters the body. The dose received may be due to either acute (short) or chronic (long-term) exposure. An acute exposure occurs over a very short period of time, usually 24 hours. Chronic exposures occur over long periods of time such as weeks, months, or years. The amount of exposure and the type of toxin will determine the toxic effect.
+
+
+What is dose-response? 
+
+Dose-response is a relationship between
+exposure and health effect, that can be established by measuring the
+response relative to an increasing dose. This relationship 1s important in
+determining the toxicity of a particular substance (2). It relies on the
+concept that a dose, or a time of exposure (to a chemical, drug, or toxic
+substance), will cause an effect (response) on the exposed organism.
+Usually, the larger or more intense the dose, the greater the response, or
+the effect. This is the meaning behind the statement “the dose makes the
+poison.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

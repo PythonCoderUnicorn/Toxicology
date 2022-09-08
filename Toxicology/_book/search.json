@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Toxicology",
+    "section": "",
+    "text": "The materials for this book are from Dr. Jake Stout, Department of Biological Science, University of Manitoba, (2015) Course outline and textbook used in the course. The content in this book is my learning and use of the programming language R to help understand the subject.\nMy goal is to learn the subject and to help others by using this book."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "Toxicology is the study of how natural or man-made poisons cause undesirable effects in living organisms.\n\n\nHarmful or adverse effects are those that are damaging to either the survival or normal function of the individual.\n\n\n\nThe word “toxicity” describes the degree to which a substance is poisonous or can cause injury. The toxicity depends on a variety of factors: dose, duration and route of exposure, shape and structure of the chemical itself, and individual human factors.\n\n\n\nThis term relates to poisonous or deadly effects on:\n\nthe body by inhalation (breathing)\ningestion (eating)\nabsorption\nby direct contact with a chemical.\n\n\n\n\nA toxicant is any chemical that can injure or kill humans, animals, or plants; a poison.\nThe term “toxicant” is used when talking about toxic substances that are produced by or are a by-product of human-made activities.\nExamples include dioxin and arsenic, both are toxicants\n\n\n\nThe term “toxin” usually is used when talking about toxic substances produced naturally.\nA toxin is any poisonous substance of:\n\nmicrobial (bacteria or other tiny plants or animals) or\nvegetable or\nsynthetic chemical origin that reacts with specific cellular components to kill cells, alter growth or development, or kill the organism.\n\nA Toxic Symptom includes any feeling or sign indicating the presence of a poison in the system\nToxic Effects This term refers to the health effects that occur due to exposure to a toxic substance; also known as a poisonous effect on the body.\nSelective Toxicity a chemical will produce injury to one kind of living matter without harming another form of life, even though the two may exist close together.\n\n\n\nBefore toxicity can develop, a substance must come into contact with a body surface such as skin, eye or mucosa of the digestive or respiratory tract. The dose of the chemical, or the amount one comes into contact with, is important when discussing how “toxic” an substance can be.\nWhat is a dose\nThe dose is the actual amount of a chemical that enters the body. The dose received may be due to either acute (short) or chronic (long-term) exposure. An acute exposure occurs over a very short period of time, usually 24 hours. Chronic exposures occur over long periods of time such as weeks, months, or years. The amount of exposure and the type of toxin will determine the toxic effect."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]

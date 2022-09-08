@@ -1,0 +1,8 @@
+# Preface {.unnumbered}
+
+
+The materials for this book are from 
+[Dr. Jake Stout, Department of Biological Science, _University of Manitoba_, (2015)]() 
+Course outline and textbook used in the course. The content in this book is my learning and use of the programming language R to help understand the subject.
+
+My goal is to learn the subject and to help others by using this book.

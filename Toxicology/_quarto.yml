@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Toxicology"
+  author: "Zane Dax"
+  date: "2022-09-08"
+  chapters:
+    - index.qmd
+    - intro.qmd # chapter 1
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: darkly
+  pdf:
+    documentclass: scrreprt
+
+
+
