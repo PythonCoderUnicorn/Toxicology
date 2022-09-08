@@ -1,0 +1,930 @@
+Principles of Toxicology — Revised ED3: 10/20/19
+Principles of Toxicolog
+A Small Dose of Toxicolog
+Chapter 2 of
+A Small Dose of Toxicology - The Health Effects of Common Chemicals
+By
+Steven G. Gilbert, PhD, DABT
+Institute of Neurotoxicology & Neurological Disorders (INND)
+Seattle, WA 98105
+E-mail: sgilbert@innd.org
+Supporting web site
+web: www.asmalldoseoftoxicology.org
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 1 of 24
+
+Introduction
+There are three basic and interwoven principles of toxicology: 1) dose-response, 2)
+hazard X exposure = risk, and 3) individual sensitivity. While these principles may form
+much of the foundation of toxicology, when it comes to any specific substance there is
+likely to be controversy. Disagreement may arise on the relative importance of any one of
+these principles while trying to evaluate implications for public health. Exploring these
+principles is an essential first step before examining their application to any specific
+substance. This chapter will explore some of the details and issues surrounding these
+principles, but first it is appropriate to put them in historical context.
+Basic Principles of Toxicology
+Dose-Response
+Risk = Hazard X Exposure
+Individual Sensitivity
+
+Our ancient ancestors worried about being poisoned ether accidentally or on purpose. The
+formal study of poisons (and thus toxicology) began 500 years ago during the
+Renaissance, a period of incredible change and challenge to traditional thought.
+Phillippus Aureolus was born in Switzerland (Figure 2.1), a year after Columbus sailed in
+1493. He took the pseudonym of Theophrastus Bombastus von Hohenheim and still later
+invented the name Paracelsus (1493-1541). This name may signify his desire to move
+beyond the Roman philosopher and medical writer Aulus Cornelius Celsus (CcAD3-64),
+who promoted cleanliness and recommend the washing of wounds with an antiseptic such
+as vinegar. Paracelsus’s claim to toxicology is that he elegantly stated the principle of
+dose-response as “AI] substances are poisons; there is none, which is not a poison. The
+right dose differentiates a poison from a remedy.” This often-used quote accurately states
+that too much of anything, even drinking too much water, can be harmful. (It should be
+noted that too little of some substances can also be harmful, such as water.)
+What Paracelsus failed to emphasize is the variation in sensitivity of the individual. A bee
+sting or a peanut can be deadly for some individual while only annoying or even tasty for
+most people. There are now numerous examples demonstrating that the developing infant
+is very sensitive to the poisonous effects of a substance that does not harm the adult. For
+example, alcohol consumption during pregnancy can result in permanent harm to the
+infant without affecting the mother. The brain of the developing infant is sensitive to low
+levels of lead exposure, which is not the case for the adult. Another approach to the
+principle of dose / response might look like this: “The sensitivity of the individual
+differentiates a poison from a remedy. The fundamental principle of toxicology is the
+individual’s response to a dose.” The principle of dose / response is only useful when
+linked to the sensitivity of the individual to a particular substance.
+
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 2 of 24
+
+Figure 2.1: Paracelsus
+= fALTERIVS NON SELGNLSVVSESSEPOTE ST
+hee § ory He n u 1S portrait, Parace sus 1S Surrounded Dy
+52854 ae Da cmaeas various philosophical symbols. From Paracelsus:
+|e = ee 8 ae yi e Le Etliche Tractaten, zum ander Mal in Truck
+gl a auszgangen. Vom Podagra und seinem Speciebus
+2p ~\\) f irr : (Coln, 1567). Washington University Collection.
+S| <7 \G A\ J tes | B Ws (from web site
+s - AM my (he oy) http://beckerexhibits.wustl.edu/rare/collections/sch
+| Piece a a) | lueter.html
+Gaa~
+SI SE
+JAVREOLV'S_PHILIPPV.S“THEOPHRAST Usa gO
+Individual sensitivity to a hazardous agent depends on age, genetics, gender, current or
+prior illness, nutrition, and current or history of exposure to chemical agents. Age is
+important factor for the very young or the elderly for very different reasons. The
+developing nervous system of the infant is more susceptible than the mature nervous
+system to a range of agents. Our metabolism of agents slows as we age and our bodies
+again become more vulnerable to the effects of an agent. Our gender and genetics dictate
+our ability to metabolize agents either more quickly or even not at all. For example, some
+people metabolize alcohol more slowly that other people because of their genetics. All
+these factors are important as we judge our susceptibility to a particular hazard.
+There are many familiar hazards in our lives, some easier to evaluate than others. An
+agent or situation is hazardous when it can produce an adverse or undesirable effect.
+Hazard is a property of a particular agent or situation. Early in our lives we learn about
+the hazards of crossing the street or falling off a ladder or stumbling down the stairs.
+Learning about the hazards of a chemical agent is not so easy. Defining the hazard of a
+chemical agent requires experience in human exposures or careful study in experimental
+models. Through personal experience we gain an understanding of the hazards of some
+agents like alcohol or caffeine.
+We routinely combine our knowledge of hazard, exposure, and individual susceptibility
+to judge the possibility or risk of harm. A young person judges the speed of the
+approaching car and decides to run across the street while an elderly person waits for the
+traffic light to change. This decision is based on a judgment about the risk of being struck
+by the car. An experienced mountain climber will judge the risk of harm on a difficult
+climb very differently from someone with no experience. Judging the risk of harm from a
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 3 of 24
+
+chemical agent is often far more difficult because the adverse effects may not be
+immediately obvious or may depend on individual sensitivity.
+The ability of an agent to damage to the nervous system or of causing cancer 10 years
+after exposure is clearly not obvious. The formal process of determining the potential of
+agent to cause harm 1s called risk assessment. The risk assessment process is in itself
+complicated and often controversial because needed data may not be available or there is
+conflicting information. Risk assessment is the process of combining all the known
+information about the hazard of and exposure to an agent and making a determination of
+the potential for harm to people, animals or the environment. The next step 1s risk
+management.
+Risk management combines the risk assessment with economic, political, public opinion
+and other consideration to determine a course of action. These judgments seldom satisfy
+everyone. The principles of toxicology form the foundation for the risk assessment and
+ultimately for the risk management decisions. Individual and community involvement in
+the decision-making process is a critical part of developing sound policies to minimize
+risks to people and the environment.
+Dose / Response
+The two most important words in toxicology are dose and response; in other words, how
+much of an agent will produce what reaction. In toxicology, the focus is usually on
+adverse reaction or response, but it is equally useful to consider a full range of responses
+from desirable to undesirable. Experience teaches us how to moderate the dose to achieve
+a desired result or avoid an undesirable effect. Eating one apple is beneficial, but eating
+five apples may produce a stomachache. One cup of coffee in the morning may be just
+right, but if you drink three cups too quickly you will suffer the consequences. For light-
+skinned people, acquiring a tan without getting sunburned requires careful management
+of exposure to the sun. While Paracelsus stated correctly that the “... dose differentiates a
+poison from a remedy”, it is the individual that must constantly be aware of the dose and
+his or her particular response.
+Defining the dose is a critical first step in the effort to predict a response. Dose is the
+amount of exposure to an agent, a quantitative measure of the exposure related to the
+subject or individual. For a chemical agent or drug the dose is the amount of the material
+in relation to body weight. Typically, the amount of material is measured in grams or
+thousandths of a gram (milligrams, mg) and body weight is measured in kilograms (kg),
+equal to one thousand grams. The dose is the amount of material consumed divided by
+body weight or mg/kg.
+Calculating the dose
+Oral dose = amount of material consumed (mg) / body weight (kg)
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 4 of 24
+
+By knowing just a couple of facts we can turn our everyday exposure of caffeine into a
+dose. There are approximately 100 mg of caffeine in a cup of coffee. The actual amount
+of caffeine in a cup of coffee depends on the coffee bean, how the coffee was prepared
+and the size of the cup. An adult weighing 155 Ibs (about 70 kg) consuming this one-cup
+of coffee would receive a dose of 100 mg divided by 70 kg, or about 1.4 mg/kg of
+caffeine. The importance of including body weight becomes clear if you consider a child
+that weighs only 5 kg (11 Ibs). If this child consumed the same cup of coffee, the dose
+would be 100 mg /5 kg or 20 mg/kg, more than ten times higher than the adult.
+The difficult part of calculating the dose is often determining the exact amount of
+exposure to the agent. The amount of caffeine in a cup of coffee varies depending on the
+bean and brewing method, to say nothing of the size of the cup. Very sensitive
+instrumentation is now available to analytical chemists to accurately determine the
+amount of a specific agent in a material. If the agent is pure, it 1s relatively easy to
+determine the amount of the substance and then calculate the dose. Some foods, such as
+table salt or sugar, are relatively pure and the dose easily calculated by weighing the
+material. Package labeling usually indicates how many milligrams of the drug each pill
+contains, so the dose can be calculated. An infant formulation contains much less drug
+per pill, but because of the difference in weight between the infant and the adult the dose
+may be similar.
+Calculating the dose following workplace or environmental exposure can be far more
+difficult. If the agent 1s in the air, then calculation of the dose must consider not only the
+concentration in the air but also the duration of the exposure, rate of breathing and body
+weight. The amount of air inhaled over a period of time is estimated from laboratory data.
+Given this information, it is possible to estimate the dose according to the following
+formula:
+Inhalation dose (mg/kg) =
+Air concentration of agent (mg/ml) X volume of air inhaled per hour (ml/hr) X
+duration of exposure (hr) / body weight (kg)
+
+For non-chemical exposures, other variables and different units of measurement are
+required. For example, exposure to sunlight could be measured in hours, but to determine
+the dose would require knowing the intensity of the light as well as the exposed skin
+surface area. For example, to determine a dose of sunlight requires knowing the number
+of hours of exposure, the intensity of the light as well as the skin surface area.
+Workplace and environmental exposures are often repeated and ongoing over an
+extended period of time. The health effects of repeated long-term exposures can be very
+different from one short-term exposure.
+
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 5 of 24
+
+Duration of exposure, frequency of exposure and time between exposures are important
+determinants of dose and response. Four beers in one hour would produce a very different
+response than four beers over four days. Many years of repeated high levels of alcohol
+exposure can lead to serious liver damage as well as other health complications quite
+different from the short-term consequences of one exposure to a high level of alcohol.
+Acute exposure 1s a single or very limited number of exposures over a short period of
+time. Chronic exposure 1s repeated exposure over a long period of time. The effects of
+acute or chronic exposure, as in the case of alcohol, are often very different. For many
+drugs, we are looking for the immediate or acute response following exposure. We
+consume common painkillers with the desire to quickly stop our headache. Long-term
+repeated use, however, can have undesirable effects on the stomach or liver. Tobacco
+users desire the acute effect of the nicotine but inevitably suffer the chronic effects of
+long-term use such as lung cancer and heart disease. It is also possible to have a delayed
+response to an acute exposure. For example, a laboratory researcher died several months
+after an acute exposure to a small amount of ethyl mercury. Detailed knowledge about
+the hazards of a substance is necessary in evaluating exposure and effect or dose/response
+relationships. This includes information about the consequences of acute or chronic
+exposure.
+There is often a range of responses associated with any particular agent. The response
+that occurs will vary with the dose, the duration of exposure, and the individual. The
+acute response to a single dose is often the easiest to characterize, but the response to
+multiple exposures over a long period of time may be the most important. An emergency
+response worker that 1s exposed acutely to a solvent in the air may have her or his
+judgment impaired, resulting in a serious mistake. However, over the long term this
+exposure is of no consequence, assuming the worker survives any mistake in judgment.
+On the other hand, long-term exposure to coal dust can lead to black lung and severe
+disability. For a long time, it was thought that the only serious complication from
+childhood lead exposure was death resulting from high exposure. Subsequent research
+demonstrated that even small amounts of lead exposure during childhood could result in
+brain damage that lasts a lifetime. Determining what responses are most important is a
+central aspect of many debates in toxicology.
+Demonstrating Dose Response
+In general, it is true that for any individual, the greater the dose the greater the response.
+This concept is illustrated in Figure 1 and can be easily demonstrated in the home or
+classroom with a few simple items (see appendix — Dose-Response Demonstration).
+Caffeine, which distributes evenly throughout total body water, is a good illustration of
+dose-response. It is important to know if a substance distributes into body water because
+we made up of approximately 75% water. A can of cola contains approximately 50 mg of
+caffeine (about 4 mg per ounce of cola). Consumption of the first can of cola delivers an
+exposure of 50 mg per total body weight. Assuming a 100 kg person, this would be
+50/100 mg/kg or 0.5 mg/kg. Consumption of three cans of cola would result in a dose of
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 6 of 24
+
+1.5 mg/kg and six cans of cola a dose of 3 mg/kg of caffeine. Because caffeine distributes
+evenly throughout total body water you can almost imagine the change in shade depicted
+in Figure 2.2 as the concentration of the caffeine in the blood. An individual’s response to
+the caffeine varies with the dose and corresponding amount of circulating caffeine.
+The right panel (Figure 2.2) illustrates the effect of body size on the dose. When the adult
+and the child receive the same amount of caffeine, the exposure is the same but the dose
+is dramatically different. A child that weighs only 10 kg receives a dose of 5 mg/kg after
+one can of cola. An adult that weights 100 kg must drink 10 cans of cola to receive an
+equivalent dose. Body size is a critical factor in determining dose and any subsequent
+response. For the equivalent exposure to any substance such as lead or a pesticide, the
+child will receive a much greater dose than the adult. As we shall discover, there are other
+important physiological factors that also make children more susceptible than adults to
+the effects of an agent.
+
+The importance of dose The Importance of size
+
+eo @@
+® Pd e°e
+O ® 6
+Sa we an
+The larger the dose, the greater the effect The smaller the size, the greater the
+effect
+Figure 2.2 The Effect of Dose and Body Size on Response
+For a given body size, the larger dose produces a greater effect (left), and for a given
+exposure, the smaller body size receives a greater effect and larger dose (right).
+The next figure (Figure 2.3) graphically illustrates the critical relationship between dose
+and response. In this case, we define the response as difficulty in walking and the dose of
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 7 of 24
+
+All Effected
+o 100
+‘=
+=<
+§ 7S
+2 5
+E Wa
+Q Amount half
++ are effected
+a 25
+O
+°
+- 0 —
+0 1 2 3 A - 6 7 8
+Glasses of Wine
+Figure 2.3: Dose Response Graph for Drinking Wine
+Dose response function for difficulty in walking and number of glasses of wine
+consumed. This is an idealized curve, but it illustrates the principle that at low
+doses (i.e. few glasses) there is little response, then an increasing response to a
+maximum response. Note that this figure does not take into consideration body
+weight or any other variables such as gender or frequency of exposure (i.e. time
+between drinks).
+or exposure to alcohol as a glass of wine. To change from exposure to dose we would
+need to know the body weight and amount of alcohol in the glass of wine. If we selected
+a group of people at random and offered them wine, no one (most likely) would have
+difficulty walking after one drink (depending of course on how big the glass was). The
+number of people responding, or in this case having difficulty walking, is a percentage of
+the total number of people in our study population. As exposure to wine increases, more
+and more people would have difficulty walking until finally everyone was affected.
+In toxicology, the dose at which one half or 50% of the population is affected is often
+calculated and used to compare the toxicity of different agents. In this example, 50% of
+the population is affected after exposure to 4.5 glasses of wine. The vertical bars
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 8 of 24
+
+represent the variability from one test group to the next. If we repeat this experiment
+with a different group of people, the actual data points could be somewhat different, but
+should generally fall within the range spanned by the vertical bars or error bars. There are
+many possible reasons for this variation, including body weight (which changes dose),
+food consumption prior to drinking, past use of alcohol, genetics, gender, as well as
+others. Technically this figure is an exposure response graph because the dose is not
+calculated; the number of glasses of wine represents a measure of exposure not dose.
+All Effected
+100 —-
+®
+i) 15
+c
+O
+a. 50
+7) Half Effected
+iY
+o 625
+o~
+0 —@—_
+0 10 20 30 40 50 60 70 80 90 100
+Dose (mg/kg body weight)
+Increasing dose ———__»
+Figure 2.4: An Idealized Dose / Response Graph
+The horizontal axis indicates the dose in mg/kg of body weight, while the vertical axis is
+the percent of maximum response. For very low dose there is no or little response. The
+response increases with the dose until the maximum response is reached and increasing
+the dose has no additional effect.
+Figure 2.4 demonstrates an “S”’-shaped idealized dose / response graph, which 1s typical
+of most types of exposure. In this figure, the percentage responding is plotted against the
+dose in mg/kg. This “S” shaped cure illustrates that at low doses there is little or no
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 9 of 24
+
+response while at high doses all individuals respond or demonstrate the effect. The line
+drawn at 50% responses determines at what dose 50% of the population would
+demonstrate this response. In this situation, 50% of the subjects respond at a dose of 42
+mg/kg, while 99% of the subjects responded at 90 mg/kg. It is important to emphasize
+that if we repeat this experiment the results would be slightly different. Each individual
+varies from one time to the next and there is even greater variability between individuals.
+Variability is a consistent theme in biology, complicating data analysis and interpretation
+of results. These variations lead to the need for statistical evaluation of data.
+Hazard and Risk
+The biological effects of an agent often span a broad range from beneficial to harmful,
+depending on the dose and individual sensitivity. The scientific discipline of toxicology
+developed in an effort to understand and characterize the potentially harmful or
+hazardous properties of an agent. Risk is the probability of injury, disease, loss of
+function, or death for an individual or population exposed to a hazardous substance or
+situation. An agent or situation that can produce or cause a harmful or adverse effect is a
+Hazard. Hazard is an intrinsic property of a substance and any particular substance may
+have a range of hazards associated with it depending upon specific conditions or
+circumstances. On a daily basis, we routinely confront a range of potentially hazardous
+agents, including the fire we cook with, the electricity that lights our homes, the
+household chemicals used for cleaning, the chemicals that run our cars, drugs in the
+medicine we take, and the list goes on. We use these potentially hazardous agents but are
+careful to avoid conditions that will result in the expression of their hazardous properties.
+Gasoline is a good example of an agent with multiple hazards. We depend on its
+flammability to make our cars run but that same flammability can be hazardous in an
+uncontrolled fire. Sniffing gasoline, undertaken by some people for effects on the nervous
+system, represents a very different hazard. Problems develop when we do not fully
+appreciate an agent’s potential to cause harm or the conditions under which the agent can
+cause harm. Problems can also occur when products or mechanical systems malfunction.
+In the past, the hazard associated with any particular substance was related to immediate
+or obvious harm. As our knowledge and experience increase, so too does our appreciation
+of an agent’s ability to produce unexpected consequences or harm. Take for example
+DDT, a very powerful pesticide useful in the eradication of mosquitoes. As Rachel
+Carson so eloquently pointed out, DDT devastated bird populations not directly but
+indirectly by thinning eggshells to such an extent that the eggshells failed. This resulted
+in a devastating decline in bird populations, particularly for birds consuming animals.
+Still later we learned that DDT was a very persistent chemical and highly soluble in fat.
+DDT thus accumulated up the food chain and in this case birds at the top of the food
+chain were most affected. Humans are also at the top of the food chain, and through a
+variety of means, DDT ends up in the food supply and becomes stored in body fat. When
+women are breast-feeding, fat and DDT are mobilized and become the food of nursing
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 10 of 24
+
+infants, which represents a large dose to a small infant. We are still unsure of the
+consequences of fetal exposure to DDT and its effects on the developing organism. Many
+other fat-soluble chemicals, such as dioxin and PCBs are known to contaminate breast
+milk. Lead is another example of a major public health disaster that occurred because the
+consequences of low-level lead exposure to the developing nervous system were not
+appreciated.
+Recognition of the potential harmful effects of agents from drugs to pesticides resulted in
+new research efforts as well as the formation of government agencies responsible for
+regulating hazardous substances. The Food and Drug Administration (FDA) is
+responsible for ensuring that all drugs and food additives are both efficacious and safe.
+The Occupational Health and Safety Administration (OSHA) establishes rules to control
+or limit exposures to a variety of chemicals in the workplace, based upon toxicology data.
+The Consumer Products Safety Commission (CPSC) works to reduce injury from
+consumer products. The U.S. Environmental Protection Agency (EPA) governs the
+release of chemicals into the environment to protect the soil, water and air. It also
+regulates the cleanup of hazardous chemicals in the environment.
+While science plays an important role in characterizing the harmful effects of an agent,
+society also establishes laws to regulate or limit exposure to known hazards. Tobacco and
+alcohol consumption are legal despite recognized hazards and considerable cost to
+society. It was only recently that the government forced the tobacco industry into
+acknowledging the addictive properties of nicotine and began to recover health costs
+through litigation. While the adverse effects of excessive alcohol consumption have been
+recognized for a long time, it was only in the 1970’s that birth defects related to alcohol
+consumption during pregnancy were recognized. In contrast, the U.S. government has
+declared that marijuana and many other recreational drugs are illegal based upon their
+known hazard characteristics. Obviously, this 1s a controversial area, with many people
+(and even countries) having very different opinions and laws.
+Hazard and risk are linked by exposure. Reducing the hazard, the exposure, or both can
+lower risk. If there is no exposure, then there is no risk or possibility of harm. Knowledge
+and experience allow one to judge the potential for harm or risk associated with exposure
+to a substance. In this way we are all toxicologists, always judging the potential for harm
+against the benefit of exposure. This is often easier said than done, but being
+knowledgeable about an agent can lead to the development of specific strategies to
+reduce the potential for harm. Since one cannot necessarily foresee all possible exposures
+to a hazardous substance, choosing less hazardous substances 1s also a vital part of risk
+reduction.
+The beneficial use of radiation is one of the best examples of how careful characterization
+of the hazard is essential for its safe use. A radioactive substance can be safely stored or
+transported if appropriately contained. Depending on the characteristics of the radioactive
+material, it can be safely handled by using appropriate shielding and safety precautions.
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 11 of 24
+
+Laboratory workers usually wear special badges that quantify radiation exposure to
+ensure that predetermined levels of exposure, which are considered safe, are not
+exceeded. Unfortunately, after more than 50 years, society has not yet been able to design
+and implement a safe way to dispose of radioactive waste. The hazardous properties of
+radiation are explored further in a subsequent chapter.
+Historically, potentially toxic agents have been ranked by their lethality, or the amount of
+material that causes death. In this measure, hazard is defined only as death, obviously
+only the grossest measure of an agent’s effect. Because of individual variability or
+susceptibility, a standardized measure is the dose (in units of mg/kg) that produces death
+in half of the subjects, a 50% response. This is called an LDS0O or lethal dose for 50% of
+the population. The LD50 is one measure of the toxicity of a substance, its capacity for
+causing illness or death. The LD50 is usually determined on populations of test animals
+such as rats and mice. Determination of an LD50 is based on a single acute exposure to
+an agent and the single response of death. Although the LD50 can be useful in comparing
+the gross hazards of agents, it is not necessarily relevant to a response produced by low-
+level chronic exposure. For example, the LD50 of lead is not particularly important,
+given its adverse effects on the developing nervous system even at very low levels of
+exposure. LD50s are misleading if used as the only characterization of the toxicity of a
+substance. Aspirin is a commonly used over-the-counter medicine, while DDT is a
+pesticide that has been banned because of its toxic effects and persistence in the
+environment. Yet they have similar LD50s.
+Table 2.1 lists the LD50s of a variety of common agents. Since the LD50 is the amount
+of material required to produce death, a higher LD50 implies a lower toxicity and vice
+versa. Note how high the LDS50 is for alcohol, which is fortunate given its widespread
+consumption. This explains why so few people die as a result of acute alcohol
+consumption. Generally, people pass out at high blood alcohol levels and die not due
+directly to alcohol but from suffocating on their own vomit as the body tries to rid itself
+of this toxicant. Note also the low LDSO (high toxicity) for nicotine, the most active and
+addictive ingredient in cigarettes.
+
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 12 of 24
+
+Table 2.1. Approximate Acute LD50s of Some Common Chemical Agents
+
+Agent LD-50 (mg/kg)
+
+Ethyl alcohol 10,000
+
+Salt (sodium chloride) 4,000
+
+Iron (Ferrous sulfate) 1,500
+
+Morphine 900
+
+Mothballs (paradichlorobenzene) 500
+
+Aspirin 250
+
+DDT 250
+
+Cyanide 10
+
+Nicotine i
+
+Tetrodotoxin (from fish) 0.01
+
+Dioxin (TCDD) 0.001 (for some species)
+
+Botulinum Toxin 0.00001
+Fortunately, the LD50 is no longer recognized as an adequate or even particularly useful
+assessment of an agent’s ability to cause harm. Toxicologists have developed a wide
+array of tests to determine if an agent can produce an adverse effect. A variety of tests are
+performed to evaluate the potential harmful effects across all organ systems. If any hint
+of adverse effects 1s observed, further testing is done to carefully characterize and
+understand the effect. Ultimately, the hazard must be judged on the sensitivity of the
+individual. Moderate consumption of alcohol can present few hazards for an adult, but
+this same amount of alcohol can harm the developing fetus. Lead has many beneficial
+uses and has long been recognized as a hazard, but it is only relatively recently that
+harmful effects on the developing nervous system have been characterized. At what point
+does caffeine produce an undesirable effect and another cup of coffee become something
+to avoid? How much of a hazard is caffeine? To answer these questions, we need to know
+more about how the body metabolizes or breaks down chemical agents.
+Routes of Exposure and Absorption
+An agent exerts its effects when it enters or comes into contact with the body, in other
+words, when an individual has been exposed to it. Although we are primarily concerned
+with effects on humans, the same principles apply to all living organisms and, indeed, to
+the entire environment. Exposure, like many of the terms in toxicology, has several
+difference aspects, the most important of which are 1) route of exposure, 2) frequency of
+exposure, and 3) duration of exposure. Exposure is also affected by absorption. Even
+though we may come in contact with an agent, if little 1s taken up into the body (or
+absorbed), there is little effect. For example, the metallic mercury from a broken
+thermometer, if swallowed, 1s very poorly absorbed by the gut and will be excreted in the
+feces. However, if this same amount of mercury were allowed to evaporate and be
+inhaled, there would be very serious health consequences. This example shows that
+metabolism and excretion modify absorption. What is not absorbed (and even some of
+
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 13 of 24
+
+what is absorbed) may be excreted from the body by various routes, including the urine,
+feces, and sweat or through exhalation. Excretion reduces the effect because it lowers the
+amount of toxicant in the body, thus reducing exposure to sensitive organs.
+There are three main routes of exposure: 1) skin (or dermal) exposure, 2) lung
+(inhalation) exposure, or 3) oral (gastrointestinal) exposure. A fourth route of exposure is
+by injection, which is used for delivery of drugs or medication that cannot be taken
+orally. Injections can take several forms. An injection directly into a blood vessel
+bypasses most of the absorption barriers and the drug will have almost full and immediate
+access to the most organs of the body. Some medications are injected into the muscle
+(intramuscularly or IM), which slows absorption as the drug is slowly taken up by the
+blood supplying the muscle. Finally, injections can be made just under the skin
+(subcutaneous or SC). This method is commonly used for allergy testing or tuberculin
+(TB) tests.
+Skin is the largest organ of the body and does an amazing job of protecting us from most
+agents. However, the skin is an important route of exposure to some agents and also a site
+of highly adverse reactions. For example, the adverse effect of too much exposure to the
+sun is well known. In many cases, the skin is an excellent barrier to chemical agents, but
+some solvents can readily penetrate the skin. Solvents such as gasoline or chemical
+cleaners can readily remove the natural oils of the skin and result in adverse skin reaction,
+as well as chemical absorption. The labels of many pesticides state that gloves and other
+skin protection should be worn because of the risk of pesticide absorption through the
+skin or allergic reaction such as arash. A number of medications can now be applied
+through a skin patch, such as nicotine patches to curb the desire to smoke cigarettes. The
+advantage of a skin patch in that the drug will be absorbed a constant slow rate, thus
+keeping the drug blood levels relatively constant. This system helps smokers by keeping
+their blood nicotine levels elevated and constant, curbing the desire to smoke.
+Inhalation is an excellent route of exposure to many agents, including the oxygen
+essential for life. The lungs are very rich in blood to facilitate the absorption of oxygen
+and thus allow the rapid absorption of other agents directly into the bloodstream, quickly
+producing an effect. Carbon monoxide is a potentially lethal gas that can be generated in
+the home by poorly ventilated heaters, faulty furnaces, or a car idling in an attached
+garage. Carbon monoxide is readily taken up by the blood cells by the same mechanism
+as oxygen. In fact, carbon monoxide binds to the hemoglobin in the blood cells better
+than oxygen, SO exposure can cause serious injury and even death through lack of oxygen
+intake. Cigarette smokers become dependent on the nicotine absorbed through the lungs
+from the tobacco smoke. Marijuana users hold their breaths to allow additional
+absorption of the active ingredient THC. The lungs can also excrete some agents,
+although this is usually in very small amounts. The excretion of alcohol forms the basis
+for the alcohol Breathalyzer test, which quantifies the amount of alcohol in the body by
+measuring what is exhaled.
+
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 14 of 24
+
+Ingestion of substances orally allows absorption from the stomach and intestines. This is
+a critical route of exposure for many agents, from essential carbohydrates, proteins, and
+vitamins, to unwanted pesticides and lead. All that is ingested is not necessarily absorbed,
+and absorption can be dependent on age. For example, in an adult, only about 10% of the
+lead ingested is absorbed, but up to 50% may be absorbed by an infant or pregnant
+women. In this case, unabsorbed lead is passed through the intestine and excreted in the
+feces. The increased absorption of certain agents at different times of life is related to the
+body’s demand for important elements. In this situation, the intestines are able to absorb
+increased amounts of calcium and iron but will take lead as a poor substitute (more on
+this in the lead chapter). Alcohol and caffeine are readily absorbed by the stomach,
+making for two of the most popular drugs in our culture. Oral exposure also occurs
+through our food and drinking water, so it is imperative to have unpolluted water and a
+safe food supply. It is also a good idea to wash your hand before eating or touching food
+so that what may be on your skin does not ride along on the food you eat.
+The other two aspects of exposure are frequency and duration. Frequency can refer not
+only to the number of times the exposure occurred, but also to the time between
+exposures. For example, drinking four beers within 15 minutes 1s quite different from
+drinking four beers in four days. Frequent exposure of a short duration results in rapidly
+elevated blood levels of any agent (assuming it’s absorbed). Two quick cups of coffee in
+the morning serve to elevate blood caffeine levels, whereas slowly sipping a cup of
+coffee will not have the desired stimulator effect. It takes approximately 30 minutes to
+absorb the caffeine from a cup of coffee and reach your peak blood caffeine levels. The
+harmful or toxic effects of an agent are often dependent on the frequency of exposure and
+the time between exposures.
+Duration of exposure is a closely related factor. In toxicology, duration is usually divided
+into three periods: 1) acute exposure (usually just one or two exposures of short
+duration); 2) sub-chronic exposure (multiple exposures over many days or perhaps
+months); and 3) chronic exposure (long-term or even lifetime exposure). The terms acute
+and chronic are also used to characterize the time delay between exposure and the onset
+of symptoms. Acute effects are those noticed directly following exposure and are usually
+easily related to the agent. The chronic or long-term effects of an agent may occur years
+later and are often very difficult to attribute to a particular cause. The acute effects of
+alcohol consumption or exposure to the solvent in glue are obvious in the drunkenness
+produced. The effects of chronic exposure to these compounds, as seen by an alcoholic,
+are very different: specifically, cirrhosis of the liver. The chronic effect of childhood lead
+exposure can be impaired learning that will be a factor throughout an individual’s
+lifetime. The chronic effects of food additives and pesticides are evaluated in lifetime
+animal studies to assess the carcinogenic (cancer-causing) potential of these agents.
+There are two types of exposure that deserve special attention: fetal exposure during
+pregnancy and exposure of the brain. For a long time, it was thought that the placenta
+offered the developing fetus significant protection from hazardous agents. We know now
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 15 of 24
+
+that the majority of agents readily cross the placenta and expose the developing fetus to
+whatever the mother has been exposed to. The fluid surrounding the infant (amniotic
+fluid) will have the same level of drug as the mother’s blood for compounds that readily
+distribute throughout body water, such as caffeine. Thus, the infant is literally swimming
+in caffeine and its metabolites. Fetal methylmercury can actually be higher than that of
+the mother, because the developing infant acts as a storage site for maternal mercury. The
+brain, on the other hand, in the adult but not in the fetus, is afforded some extra protection
+from hazardous agents. This barrier is known as the blood-brain barrier because of its
+ability to keep some agents from moving from the blood vessels into the brain tissue.
+This barrier works primarily on large molecules but does not stop water-soluble agents
+such as caffeine from entering the brain and producing its stimulatory effect. While there
+are obviously many good aspects of the blood-brain barrier, it has also proven to be very
+challenging to move desirable drugs into the brain to treat disease.
+From a scientific perspective, we primarily work with single exposures to chemicals to
+understand how the body reacts to a specific chemical. In real life, however, we are often
+exposed to a mixture of chemical agents. Multiple agents may interact and effect
+absorption or how the body reacts to the chemical. The body has a very sophisticated
+system to metabolize and eliminate chemicals form the body; this system plays an
+important role in protecting us from hazardous substances.
+Metabolism, Distribution and Excretion
+Fortunately, living organisms have developed elaborate systems to defend themselves
+against toxic agents. Metabolism refers to an organism’s ability to change a substance
+into different chemical parts or metabolites that are usually less toxic. The body
+metabolizes the food we consume to recover energy and basic elements necessary for our
+well-being. In toxicology, metabolism refers to the body’s ability to reduce an agent into
+parts that are either less harmful or more readily excreted, a process called detoxification.
+The most common route of excretion is through urine, although some agents can be
+excreted in the feces, sweat or even the breath. For toxic agents, metabolism is beneficial,
+but it can also reduce the benefits of a drug needed to aid in the recovery from an illness.
+Distribution refers to where an agent goes in the body. Some agents such as pesticides
+and PCBs accumulate in the fat. Other agents such as lead can accumulate in the bone in
+the place of calcium. Agents stored in the body my never be fully excreted; as we age we
+continue to accumulate a body burden of these stored agents like PCB or lead.
+Metabolism, distribution, and excretion are linked aspects that are essential to predicting
+the adverse effects of an agent and thus determining the risk of exposure to it.
+Although most cells in the body are capable of metabolism, the primary organ for
+detoxification is the liver. The liver has a variety of specialized cells that produce
+enzymes to aid in the metabolism of toxic agents. These enzymes can break down toxic
+agents into smaller elements, making them less toxic. In some cases, the compounds are
+changed so that they are more easily filtered by the kidney and excreted in the urine.
+
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 16 of 24
+
+Alcohol and caffeine, for example, are metabolized in the liver. The liver is a remarkable
+organ but can be permanently damaged by diseases such as hepatitis or through long-term
+alcohol consumption. Liver damage can be detected in the blood by looking for elevated
+levels of compounds produced by the liver. Insurance companies use liver function tests
+to evaluate the possibility of chronic drug consumption.
+Not all agents can be readily metabolized. The toxic metals lead and mercury are
+elements that cannot be degraded but must still be removed from the body. Another
+important mechanism of detoxification is the attachment or binding of another compound
+to a toxic chemical to make it easier for the kidney to filter the compound out of the
+blood and excrete in the urine. A primary purpose of the kidney is to screen the blood of
+waste products and concentrate them in the urine for excretion, as occurs, for example,
+with mercury. Caffeine is excreted in the urine at approximately the same concentration
+of the blood because the kidney cannot concentrate caffeine. Vitamins, however, are
+readily concentrated and excess quickly eliminated in the urine.
+Chelators bind metals so that they are more readily excreted in the urine. In the past,
+chelators were routinely prescribed to people with elevated blood lead levels in an effort
+to accelerate the excretion of lead in the urine. Unless the blood levels are excessively
+elevated the current treatment is to determine the source of the lead exposure and take
+remedial action. The problem with chelators is that they are non-specific and bind useful
+agents such as calcium.
+Half-life is a measure of the length of time an agent stays in the body before being
+metabolized and eliminated. More precisely, the half-life of an agent refers to the time it
+takes to reduce the level of the agent by one half. For example, if the amount of caffeine
+in your blood were measured as 12 units (the particular units are not important), it would
+take approximately five hours for that level to be reduced to six units. In this case, five
+hours represents the half-life of caffeine. Another five hours later the amount would be
+reduced in half to three, and so on until it approaches zero. The half-life of an agent,
+either toxic or beneficial, is a critical aspect of its ability to produce and maintain an
+effect. There can be considerable individual variability in the ability to metabolize an
+agent. This variability is reflected in the half-life for that particular individual. Someone
+who rapidly metabolizes caffeine (meaning someone for whom caffeine has a short half-
+life, say three hours) may want to drink more coffee more rapidly to elevate and maintain
+high caffeine blood levels and achieve the desired effect. Others may find that one-cup of
+coffee every 3 or 4 hours is adequate. A variety of factors, such as liver disease or even
+pregnancy, can decrease the metabolism or excretion of an agent and thus increase the
+half-life. During pregnancy, the half-life of caffeine increases to approximately 7 hours,
+resulting in higher blood caffeine levels for a longer period of time. While the half-life of
+agents such as caffeine and alcohol are relatively short, many of the most serious
+environmental toxicants have much longer half-live values. For example, the half-life of
+lead is approximately 30 days. Many pesticides and PCBs are also readily stored in the
+body and have corresponding long half-live values. Careful consideration of the half-life
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 17 of 24
+
+of a drug is an important aspect during medical treatment. The half-life of a hypothetical
+drug is illustrated in Figure 2.5.
+How Long It Takes To Go
+=,
+— 14
+E
+= 12
+—
+—
+Oo 6 68
+=
+© 6
+r=
+g 4 T/
+c 2 ]
+oO
+O 0
+0123 4 5 6 7 8 9 10 11
+Time (hrs)
+Figure 2.5. A characterization of Half-life
+A substance is consumed at time zero (for example, drink a cup of coffee and
+we could measure blood caffeine concentrations) and blood samples are
+collected at every hour. Concentration of the agent is plotted against time. The
+black line represents the half-life when the blood concentration as dropped by
+one half its maximum. Thus, in this example, the half-life is 4 hours.
+The ability of an agent to get into a specific organ of the body often dictates its effect. For
+example, alcohol and caffeine would not be consumed were they not readily distributed
+to the brain, where they produce a considerable effect. As already mentioned, lead can be
+exchanged for calcium and accumulate in the bone, while many pesticides and PCBs are
+stored in fat cells. These patterns of distribution and the storage of compounds in the
+body can have serious toxicological implications. During rapid weight loss, excess
+toxicants can be redistributed into the blood supply as fat is metabolized. Lead in the
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 18 of 24
+
+bone can also be mobilized if there is heavy demand for calcium, as occurs during
+pregnancy. To further complicate matters, each area of the body —in this case the fat and
+bone—can have its own half-life that can differ from that of blood. The half-life of lead
+in the blood is measured in days, while that in bone is measured in years.
+Sensitivity, Susceptibility and Variability
+Susceptibility refers to the differences in sensitivity to toxic agents, causing some people
+to suffer greater effects than others from the same exposure. This is a key concept in
+toxicology and risk analysis/management. Susceptibility is primarily related to several
+factors, including age, sex, health, and genetic background. Sensitivity is related to
+susceptibility but generally refers to special cases of extreme susceptibility to certain
+agents by some people. Someone who is allergic to bee stings can have a fatal reaction
+when stung by just one bee, while for most others a sting is of little concern. Enhanced
+sensitivity to a compound can develop after repeated exposure to it or a similar agent.
+Allergies to animals such as cats and dogs are examples of specific sensitivities to an
+agent called animal dander. Other individuals may develop a sensitivity to dust mites.
+In general, the young and elderly are most susceptible to the adverse effects of an agent.
+The young, particularly the very young, are more susceptible because the organs are still
+rapidly developing, and dividing cells are more easily harmed than mature cells. For
+example, lead affects the developing nervous system to a much greater degree than the
+adult brain. The brain is rapidly growing during and after birth, particularly throughout
+the first 7 years of life. The brain is not fully developed until the late teens. During the
+first year of life the metabolism of agents by the liver is also reduced. This is why the
+half-life of caffeine can be measured in days for the newborn while it is hours for the
+adult. The elderly are more sensitive to agents because of decreased ability to metabolize
+them and decreased ability to compensate for the effects.
+Gender can also play an important role in susceptibility to agents, in part due to hormonal
+influences. The classic example is the female birth control pill. In this case, a very small
+exposure to specific hormones has a very large influence on fertility. Other agents such as
+PCBs also appear to affect some of the female hormones. Some athletes use hormones
+called steroids to increase muscle mass. These agents have different toxic side effects for
+males and females. Females have additional issues related to pregnancy. Pregnancy
+causes many changes in physiology that can alter the absorption, distribution, and
+metabolism of an agent and thus dramatically influence its effects. For example, during
+pregnancy there is a decrease in liver metabolism that increases the half-life of caffeine.
+This means that a pregnant woman will maintain higher blood caffeine levels for a longer
+period of time than when not pregnant, resulting in increased caffeine exposure to the
+developing infant. Agents stored in the fat, such as pesticides and PCBs can be mobilized
+during lactation and thus passed on to a nursing infant. Calcitum mobilization during
+pregnancy can also redistribute lead from the bone if there has been previous lead
+exposure.
+
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 19 of 24
+
+Personal health is another factor that can influence susceptibility to an agent. A
+compromised liver or immune system can make exposure to even low levels of an agent
+completely intolerable. Someone who is diabetic may find sugar toxic and may enjoy
+considerable benefit from artificial sweeteners. On the other hand, someone who cannot
+metabolize phenylalanine, a naturally occurring and essential substance, may find the
+common artificial sweetener in some soda toxic. An individual who suffers from asthma
+may find exposure to wood smoke extremely harmful, whereas many people can tolerate
+short exposures to it fairly well. (Wood smoke is nevertheless toxic in either case, and
+chronic exposure can lead to health problems.) The physiological changes of disease or
+chronic illness are thus very important considerations in assessing the exposure to an
+agent.
+Finally, our genetic variability may make us more or less prone to disease or the effects
+of a toxic agent. Some can tolerate caffeine before bed, while for others such exposure
+would result in a restless night. It is always important to consider the individual and the
+individual characteristics of a situation.
+Applying the Principles
+
+Multiple Chemical Exposure
+In the real world, we are not exposed to only one chemical at a time. The air we breathe
+contains many separate chemicals. Indoor air in homes can contain chemicals from
+smoke, molds, carpet glue, mothballs, and cleaning products, to name only a few.
+Determining the risk from such multiple exposures is difficult because the body does not
+necessarily respond to each chemical in the mixture in the same way it would if the others
+were not present. Sometimes one chemical can cause the body to respond more strongly
+to another chemical generating a synergistic effect. We know, for example, that exposure
+to environmental tobacco smoke greatly increases the risk of cancer from asbestos. The
+increase is not additive — that 1s, it 1s not equal to the risk from tobacco plus the risk from
+asbestos — but is actually much greater than the sum of the two risks.
+There are also cases where exposure to two chemicals reduces toxic effects. Methanol
+(wood alcohol) causes blindness if ingested. Methanol poisoning is treated by
+administering ethanol (common alcohol), which competes for metabolism in the body,
+thus slowing the formation of toxic byproducts of methanol and keeping their levels low
+enough to avoid damage to the optic system. This is sometimes referred to as an
+antagonistic effect.
+When more than two chemicals are involved, the problem of determining risks becomes
+increasingly complex. Scientific study of chemical mixtures has been relatively limited
+because of the sheer number of combinations possible. Even if the exact effects of
+
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 20 of 24
+
+exposure to mixtures are unknown, reducing exposure is still a good strategy to lower
+risk.
+Multiple Chemical Sensitivity
+Multiple chemical sensitivity (MCS) is characterized by a variety of adverse effects upon
+multiple organs that result from exposure to levels of common foods, drugs, and
+chemicals that do not affect most people. Symptoms include headaches, fatigue, lack of
+concentration, memory loss, asthma and other often subjective responses following
+exposure. MCS has remained controversial because standard medical evaluations, such as
+blood biochemical screens, have failed to identify consistent physical or laboratory test
+abnormalities that would account for the symptoms.
+MCS is thought to develop following sensitization to one chemical, a sensitivity that then
+is generalized so that chemicals of a similar class and lower concentrations of exposure
+come to elicit the response. Researchers have been working to develop a mechanism of
+action for these responses and have focused on the immune system responses and, more
+recently, on involvement of the nervous system. Others investigators, while respecting
+the symptomatology, postulate that the responses are due to some form of psychological
+illnesses. Whatever the mechanism of action, it 1s important to attempt to associate cause
+and effect relationships and apply the principles of toxicology. Identification of what
+agents may be causing the symptoms can result in plans to reduce exposure to these
+agents and thus reduce symptoms and improve the quality of life. In addition, reductions
+in the exposure to toxic chemicals for all persons may help reduce the incidence of MCS.
+Assessing and Managing Risk
+
+As we have seen, risk is closely related to hazard and is defined as the probability of the
+recognized hazard occurring. Risk assessment 1s the process by which the nature and
+magnitude of risk are identified, while risk management 1s the process of determining
+whether or how much to reduce risk through our actions. Evaluation of the potential
+adverse effects of some activity or exposure (risk assessment) is something we all do
+informally on a day-to-day basis. What we decide to do is in part the result of an ongoing
+risk management decision. It can be as simple as crossing the street against a red light or
+as complex as spending the extra money for organically grown foods to reduce our
+exposure to pesticides. Many of the risks associated with chemical exposure are indirect
+or subtle effects on health; in other words, conditions, situations, or exposures to an agent
+that affect the quality of life. Table 2.2 lists some of the factors that can influence a
+person’s perceptions and views about health concerns.
+
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 21 of 24
+
+Table 2.2. Considerations that influence acceptability of risk.
+
+More-Acceptable Risk Less-Acceptable Risk
+
+Benefits Understood Benefits Unclear
+
+No Alternatives Alternatives Available
+
+Risk Shared Risk Affects Few
+
+Voluntary Involuntary
+
+Individual Control Uncontrollable
+
+Familiar Unfamiliar
+
+Low Dread High Dread
+
+Affects Everybody Affects Children
+
+Naturally Occurring Human Origin (synthetic)
+
+Little Media Attention High Media Attention
+
+Understood Not Understood
+
+High Trust Low Trust
+Risk analysis and risk management play an important role in public policy. These debates
+range from the development of environmental impact statements for the location of
+buildings to debates on household lead abatement and what chemicals can be allowed in
+the food supply. Quality of life issues such as asthma and or loss of mental function are
+now recognized as important components of risk assessment. For example, childhood
+exposure to lead can result in reduced IQ, which can affect an individual throughout their
+lifetime. Similarly, childhood asthma can have a severe impact on an individual’s ability
+to play and socialize.
+In the past, much of the formal risk assessment concerned an estimation of the risk of
+cancer and subsequent death and then deciding what was acceptable. Typically, a risk of
+death of less than | in 100,000 (10°) or 1 in 1 million (10°) is considered an “acceptable”
+level of risk for exposure to a chemical. In comparison, the risk of death in an automobile
+accident is 1 in 4000 and the risk of death from lightning 1s | in 2 million. Comparisons
+like those above are sometimes used to argue that the risk of exposure to a chemical agent
+is negligible. Such comparisons can be misleading, however, if the conditions of the two
+risks are different. For example, if they affect different populations unequally, say falling
+disproportionately on those of a particular ethnic background, the risks may be more
+likely to be judged unacceptable. Or if one risk is the result of voluntary choice (drinking
+alcohol) and another is not (eating food contaminated with bacteria), it cannot be
+assumed that an individual will be equally willing to tolerate them.
+
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 22 of 24
+
+Risk assessment is a complex area that requires the application of all the principles of
+toxicology. It is often divided into four somewhat overlapping areas 1) hazard
+identification, 2) dose-response assessment, 3) exposure assessment, and 4) risk
+characterization. Hazard identification is the process of collecting and evaluating
+information on the effects of an agent on animal or human health and well-being. In most
+cases, this involves a careful assessment of the adverse effects and what is the most
+sensitive population. The dose-response assessment involves evaluation of the
+relationship between dose and adverse effect. Typically, an effort 1s made to determine
+the lowest dose or exposure at which an effect is observed. A comparison is often made
+between animal data and any human data that might be available. Next is exposure
+assessment, in which an evaluation of the likely exposure to any given population is
+assessed. Important parameters include the dose, duration, frequency, and route of
+exposure. The final step is risk characterization, in which all the above information is
+synthesized and a judgment made on what is an acceptable level of human exposure. In
+the simplest terms, risk is the product of two factors: hazard and exposure (i.e. hazard x
+exposure = risk). In real risk assessments, all hazards may not be known and exposure is
+often difficult to quantify precisely. As a result, the calculated risk may not accurately
+reflect the real risk. The accuracy of a risk assessment is no better than the data and
+assumptions upon which it is based.
+Risk management 1s the political or social process of deciding how the benefits balance
+the associated risks. Risk management is also concerned with how the public perceives
+risk and how we judge and perform our own risk assessments. An example of risk
+management was the decision to remove lead from gasoline. After a great deal of
+research, it was demonstrated that low levels of lead exposure are harmful to the
+developing nervous system. It was then determined that this benefits of removing lead
+from gasoline was greater than the costs. A program was then developed to gradually
+phase out lead from gasoline in line with the engines of new cars not requiring lead and
+the replacement of old cars.
+Summary
+The principles of toxicology are summarized in as follows: dose / response, risk=
+hazard X exposure and individual sensitivity. Many of us have an excellent intuitive
+sense of the principles of toxicology from experience with caffeine, alcohol, or other drug
+exposures. These experiences form a foundation upon which to build a formal
+understanding of toxicology that is applicable to many situations. We make many
+personal decisions based on dose/response and risk consideration. Around our home, we
+must decide which cleaning products to use or whether to apply pesticides to our lawn or
+garden. As citizens, we are also confronted with many broader concerns about
+environmental exposures. How much do we invest to limit the spread of environmental
+contaminants? Should coal-fired power generating facilities be required to invest in more
+sophisticated smoke stack scrubbers to remove mercury? On what basis do we make this
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 23 of 24
+
+decision? Advances in the toxicological sciences along with general advances in the
+
+biological sciences provide new knowledge and understanding upon which to make these
+
+and other decisions. And finally, I hope that beyond the principles of toxicology that you
+
+will find that toxicology is both fun and informative.
+
+References
+
+See chapter | and references from individual chapters.
+
+Reference on specific topics
+
+Low doses
+
+Shaffer, Rachel. (2017). Can low doses of chemicals affect your health? A new report
+
+weighs the evidence. The Conversation. Online: https://theconversation.com/can-low-
+
+doses-of-chemicals-affect-your-health-a-new-report-weighs-the-evidence-82132.
+
+(Accessed: 25 October 2019).
+
+Lanphear, Bruce. (2019). Little Things Matter — Unleashing the Power of Prevention. A
+
+series of short videos. Online: www.littlethingsmatter.ca (Accessed: 25 October 2019).
+File: Chapter 2 Principles Tox.ED3.10.20.19.docx — Date: 10/25/2019 — Page 24 of 24
+

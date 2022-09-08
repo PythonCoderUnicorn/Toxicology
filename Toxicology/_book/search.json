@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Toxicology",
     "section": "",
-    "text": "The materials for this book are from Dr. Jake Stout, Department of Biological Science, University of Manitoba, (2015) Course outline and textbook used in the course. The content in this book is my learning and use of the programming language R to help understand the subject.\nMy goal is to learn the subject and to help others by using this book."
+    "text": "The materials for this book are from Dr. Jake Stout, Department of Biological Science, University of Manitoba, (2015) Course outline and textbook used in the course. The content in this book is my learning and use of the programming language R to help understand the subject.\nMy goal is to learn the subject and to help others by using this book.\nOriginal Textbook source:\nA Small Dose of Toxicology - The Health Effects of Common Chemicals\nBy Steven G. Gilbert, PhD, DABT\nInstitute of Neurotoxicology & Neurological Disorders (INND)\nSeattle, WA"
   },
   {
     "objectID": "intro.html",
@@ -40,5 +40,26 @@
     "title": "1  Classification of Toxic Agents",
     "section": "1.1 General Classifications of Interest to Communities",
     "text": "1.1 General Classifications of Interest to Communities\n\nAir pollutants\nOccupation-related\nAcute and chronic poisons\n\nAll chemicals (or any chemical) may be poisonous at a given dose and through a particular route. For example, breathing too much pure oxygen, drinking excessive amounts of water, or eating too much salt can cause poisoning or death\n\n1.1.1 Electronic Databases\nInformation on toxic chemicals is available at the following sites:\n\nTOXNET Toxicology Data Network. Several databases, such as:\n\nthe Hazardous Substances Data Bank (HSDB)\nRegistry of Toxic Effects of Chemical Substances (RTECS) contains information on the health effects for more than 90,000 chemicals.\nThe HSDB has toxicological information on more than 4,000 chemicals, as well as information on emergency handling procedures, environmental data, regulatory status, and human exposure.\n\nCHEMTREC (Chemical Transportation Emergency Center). CHEMTREC is provided by the American Chemistry Council and provides information and assistance for emergency incidents involving chemicals and hazardous materials.\nMSDS Material Safety Data Sheets are available on the Occupational Safety and Health Administration website. MSDS provide information such as physical and chemical properties of a substance, first aid information, emergency response, and disposal information.\nHazDat Hazardous Substances and Health Effects Database, contains information on hazardous substances found at National Priorities List (NPL) and non-NPL waste sites and emergency events, and on the levels at which health effects from exposure to hazardous substances have been reported in humans and animals. HAZDAT contains environmental contamination and other data on more than 3,000 uncontrolled hazardous waste sites."
+  },
+  {
+    "objectID": "history.html",
+    "href": "history.html",
+    "title": "2  History",
+    "section": "",
+    "text": "There are three basic and interwoven principles of toxicology:\nWhile these principles may form much of the foundation of toxicology, when it comes to any specific substance there is likely to be controversy. Disagreement may arise on the relative importance of any one of these principles while trying to evaluate implications for public health. Exploring these principles is an essential first step before examining their application to any specific substance."
+  },
+  {
+    "objectID": "history.html#antiquity",
+    "href": "history.html#antiquity",
+    "title": "2  History",
+    "section": "2.1 Antiquity",
+    "text": "2.1 Antiquity\nOur ancient ancestors worried about being poisoned ether accidentally or on purpose. The formal study of poisons (and thus toxicology) began 500 years ago during the Renaissance, a period of incredible change and challenge to traditional thought.\n\nPhillippus Aureolus was born in Switzerland a year after Columbus sailed in 1493. He took the pseudonym of Theophrastus Bombastus von Hohenheim and still later invented the name Paracelsus (1493-1541).\nThis name may signify his desire to move beyond the Roman philosopher and medical writer Aulus Cornelius Celsus (CcAD3-64), who promoted cleanliness and recommend the washing of wounds with an antiseptic such as vinegar. Paracelsus’s claim to toxicology is that he elegantly stated the principle of dose-response as “All substances are poisons; there is none, which is not a poison. The right dose differentiates a poison from a remedy.”"
+  },
+  {
+    "objectID": "history.html#early-days",
+    "href": "history.html#early-days",
+    "title": "2  History",
+    "section": "2.1 Early Days",
+    "text": "2.1 Early Days\nOur ancient ancestors worried about being poisoned ether accidentally or on purpose. The formal study of poisons (and thus toxicology) began 500 years ago during the Renaissance, a period of incredible change and challenge to traditional thought.\n\nPhillippus Aureolus was born in Switzerland a year after Columbus sailed in 1493. He took the pseudonym of Theophrastus Bombastus von Hohenheim and still later invented the name Paracelsus (1493-1541).\nThis name may signify his desire to move beyond the Roman philosopher and medical writer Aulus Cornelius Celsus (CcAD3-64), who promoted cleanliness and recommend the washing of wounds with an antiseptic such as vinegar. Paracelsus’s claim to toxicology is that he elegantly stated the principle of dose-response as “All substances are poisons; there is none, which is not a poison. The right dose differentiates a poison from a remedy.”"
   }
 ]
