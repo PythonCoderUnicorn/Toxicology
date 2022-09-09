@@ -240,9 +240,263 @@ Risk is the probability of:
 An agent or situation that can produce or cause a harmful or adverse effect is a Hazard. 
 
 
+`Hazard` is an intrinsic property of a substance and any particular substance may
+have a range of hazards associated with it depending upon specific conditions or
+circumstances. 
+
+
+On a daily basis, we routinely confront a range of potentially hazardous
+agents, cooking, cleaning, driving, etc. We use these potentially hazardous 
+agents but are careful to avoid conditions that will result in the 
+expression of their hazardous properties.Hazard and risk are linked by exposure. 
+Reducing the hazard, the exposure, or both can lower risk. If there is no exposure, 
+then there is no risk or possibility of harm.
+
+
+### DDT Hazard
+
+In the past, the hazard associated with any particular substance was related to immediate
+or obvious harm. As our knowledge and experience increase, so too does our appreciation
+of an agent’s ability to produce unexpected consequences or harm. Take for example
+DDT, a very powerful pesticide useful in the eradication of mosquitoes. As Rachel
+Carson so eloquently pointed out, DDT devastated bird populations not directly but
+indirectly by thinning eggshells to such an extent that the eggshells failed. This resulted
+in a devastating decline in bird populations, particularly for birds consuming animals.
+Still later we learned that DDT was a very persistent chemical and highly soluble in fat.
+DDT thus accumulated up the food chain and in this case birds at the top of the food
+chain were most affected. 
+
+Humans are also at the top of the food chain, and through a
+variety of means, DDT ends up in the food supply and becomes stored in body fat. When
+women are breast-feeding, fat and DDT are mobilized and become the food of nursing
+infants, which represents a large dose to a small infant. We are still unsure of the
+consequences of fetal exposure to DDT and its effects on the developing organism. Many
+other fat-soluble chemicals, such as dioxin and PCBs are known to contaminate breast
+milk. Lead is another example of a major public health disaster that occurred because the
+consequences of low-level lead exposure to the developing nervous system were not
+appreciated.
 
 
 
+## Lethal Dose
+
+Historically, potentially toxic agents have been ranked by their lethality, 
+or the amount of material that causes death. In this measure, hazard is defined 
+only as death, obviously only the grossest measure of an agent’s effect. 
+Because of individual variability or susceptibility, a standardized measure is the 
+dose (in units of mg/kg) that produces death in half of the subjects, a 50% response.
+
+This is called an LD50 or lethal dose for 50% of the population. 
+The LD50 is one measure of the toxicity of a substance, its capacity for
+causing illness or death. The LD50 is usually determined on populations of test animals
+such as rats and mice. Determination of an LD50 is based on a single acute exposure to
+an agent and the single response of death. Although the LD50 can be useful in comparing
+the gross hazards of agents, it is not necessarily relevant to a response produced 
+by low-level chronic exposure.
+
+
+Problem with LD50
+
+
+LD50s are misleading if used as the only characterization of the toxicity of a substance.
+
+- lead effects on the developing nervous system even at very low levels of exposure. 
+- Aspirin is a commonly used over-the-counter medicine
+- DDT pesticide (banned) toxic effects and persistence in the environment. 
+
+Yet they have similar LD50s.
+
+lists the LD50s of a variety of common agents. Since the LD50 is the amount
+of material required to produce death, a higher LD50 implies a lower toxicity and vice
+versa.
+
+Approximate Acute LD50s of Some Common Chemical Agents
+
+| Agent                             | LD-50 (mg/kg)        |
+|-----------------------------------|----------------------|
+| Ethyl alcohol                     | 10,000               |
+| Salt (sodium chloride)            | 4,000                |
+| Iron (Ferrous sulfate)            | 1,500                |
+| Morphine                          | 900                  |
+| Mothballs (paradichlorobenzene)   | 500                  |
+| Aspirin                           | 250                  |
+| DDT                               | 250                  |
+| Cyanide                           | 10                   |
+| Nicotine                          | 1                    |
+| Tetrodotoxin (from fish)          | 0.01                 |
+| Dioxin (TCDD)                     | 0.001 (some species) |
+| Botulinum Toxin                   | 0.00001              |
+
+
+Fortunately, the LD50 is no longer recognized as an adequate or even particularly useful
+assessment of an agent’s ability to cause harm. Toxicologists have developed a wide
+array of tests to determine if an agent can produce an adverse effect. 
+A variety of tests are performed to evaluate the potential harmful effects 
+across all organ systems.
+
+
+
+
+
+
+## Routes of Exposure and Absorption
+
+Exposure, like many of the terms in toxicology, has several difference aspects, 
+the most important of which are:
+
+1) route of exposure 
+2) frequency of exposure
+3) duration of exposure 
+
+Exposure is also affected by absorption. 
+Even though we may come in contact with an agent, 
+if little is taken up into the body (or absorbed), there is little effect.
+What is not absorbed (and even some of what is absorbed) may be excreted from the body 
+by various routes, including the urine, feces, and sweat or through exhalation. 
+Excretion reduces the effect because it lowers the amount of toxicant in the body, 
+thus reducing exposure to sensitive organs.
+
+There are two types of exposure that deserve special attention: 
+
+- fetal exposure during pregnancy 
+- exposure of the brain (blood-brain barrier)
+
+
+In real life, however, we are often exposed to a mixture of chemical agents. 
+Multiple agents may interact and effect absorption or how the body reacts 
+to the chemical. The body has a very sophisticated system to metabolize and 
+eliminate chemicals form the body; this system plays an important role in 
+protecting us from hazardous substances.
+
+
+
+
+There are four main routes of exposure: 
+
+1) skin (or dermal) exposure
+2) lung (inhalation) exposure 
+3) oral (gastrointestinal) exposure
+4) injection exposure, delivery of drugs or medication that cannot be taken orally
+
+
+Injections can take several forms. 
+An injection directly into a blood vessel bypasses most of the absorption barriers 
+and the drug will have almost full and immediate access to the most organs of the body. 
+
+- intramuscular (IM) medications which slows absorption as the drug is slowly taken up by the blood supplying the muscle. 
+
+- subcutaneous (SC) injections can be made just under the skin, commonly used for allergy testing or tuberculin (TB) tests
+
+
+
+
+### Skin Exposure Route
+
+Skin is the largest organ of the body and does an amazing job of protecting us 
+from most agents. However, the skin is an important route of exposure to some 
+agents and also a site of highly adverse reactions. 
+
+In many cases, the skin is an excellent barrier to chemical agents, 
+but some solvents can readily penetrate the skin.
+The advantage of a skin patch in that the drug will be absorbed a 
+constant slow rate, thus keeping the drug blood levels relatively constant. 
+
+
+
+### Lung Exposure Route
+
+Inhalation is an excellent route of exposure to many agents, including the oxygen
+essential for life. The lungs are very rich in blood to facilitate the absorption of oxygen
+and thus allow the rapid absorption of other agents directly into the bloodstream, quickly
+producing an effect. 
+
+Carbon monoxide is a potentially lethal gas that can be generated in
+the home by poorly ventilated heaters, faulty furnaces, or a car idling in an attached
+garage. Carbon monoxide is readily taken up by the blood cells by the same mechanism
+as oxygen. In fact, carbon monoxide binds to the hemoglobin in the blood cells better
+than oxygen, so exposure can cause serious injury and even death through lack of oxygen
+intake. 
+
+
+### Ingestion Exposure Route
+
+Ingestion of substances orally allows absorption from the stomach and intestines. 
+This is a critical route of exposure for many agents, from essential carbohydrates,
+proteins, and vitamins, to unwanted pesticides and lead. All that is ingested is not
+necessarily absorbed, and absorption can be dependent on age.
+
+The increased absorption of certain agents at different times of life is related to the
+body’s demand for important elements. Alcohol and caffeine are readily absorbed by 
+the stomach, making for two of the most popular drugs in our culture. Oral exposure 
+also occurs through our food and drinking water, so it is imperative to have unpolluted
+water and a safe food supply.
+
+
+
+### Frequency Exposure
+
+Frequency can refer not only to the number of times the exposure occurred, 
+but also to the time between exposures. Frequent exposure of a short duration 
+results in rapidly elevated blood levels of any agent (assuming it’s absorbed).
+
+- drinking four beers within 15 minutes vs drinking four beers in four days.
+
+It takes approximately 30 minutes to absorb the caffeine from a cup of 
+coffee and reach your peak blood caffeine levels. The harmful or toxic effects of 
+an agent are often dependent on the frequency of exposure and the time between exposures.
+
+
+
+### Duration of Exposure
+
+In toxicology, duration is usually divided into three periods: 
+
+1) `acute exposure` (usually just one or two exposures of short duration) 
+2) `sub-chronic exposure` (multiple exposures over many days or perhaps months)
+3) `chronic exposure` (long-term or even lifetime exposure)
+
+The terms acute and chronic are also used to characterize the time delay between 
+exposure and the onset of symptoms.
+
+Acute effects are those noticed directly following exposure and 
+are usually easily related to the agent.
+
+Chronic or long-term effects of an agent may occur years later and are 
+often very difficult to attribute to a particular cause.
+
+
+
+
+
+
+## Metabolism, Distribution & Excretion
+
+Metabolism refers to an organism’s ability to change a substance
+into different chemical parts or metabolites that are usually less toxic. 
+In toxicology, metabolism refers to the body’s ability to reduce an agent into
+parts that are either less harmful or more readily excreted, a process 
+called _detoxification_. The most common route of excretion is through urine, although 
+some agents can be excreted in the feces, sweat or even the breath. 
+
+
+Distribution refers to where an agent goes in the body. Some agents such as pesticides
+and PCBs accumulate in the fat. Metabolism, distribution, and excretion are linked 
+aspects that are essential to predicting the adverse effects of an agent and 
+thus determining the risk of exposure to it.
+
+
+The primary organ for detoxification is the liver. The liver has a variety of 
+specialized cells that produce enzymes to aid in the metabolism of toxic agents. 
+These enzymes can break down toxic agents into smaller elements, making them less toxic. 
+In some cases, the compounds are changed so that they are more easily filtered 
+by the kidney and excreted in the urine.
+
+Another important mechanism of detoxification is the attachment or binding of 
+another compound to a toxic chemical to make it easier for the kidney to filter 
+the compound out of the blood and excrete in the urine. 
+
+- Chelators bind metals so that they are more readily excreted in the urine. The problem with chelators is that they are non-specific and bind useful
+agents such as calcium.
 
 
 
