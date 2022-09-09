@@ -10,7 +10,7 @@ book:
     - part: intro.qmd # chapter 1
       chapters:
         - classification.qmd
-        - history.qmd
+        - dose.qmd
         
     - summary.qmd
     - references.qmd

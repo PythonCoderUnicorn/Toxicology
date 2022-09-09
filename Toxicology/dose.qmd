@@ -1,0 +1,270 @@
+
+# Dose 
+
+There are three basic and interwoven principles of toxicology: 
+
+1) dose-response 
+2) `hazard x exposure = risk`
+3) individual sensitivity. 
+
+While these principles may form much of the foundation of toxicology, 
+when it comes to any specific substance there is
+likely to be controversy. 
+Disagreement may arise on the relative importance of any one of
+these principles while trying to evaluate implications for public health. 
+Exploring these principles is an essential first step before examining their application to any specific substance. 
+
+
+
+ 
+## Dose Response
+
+In toxicology, the focus is usually on adverse reaction or response, 
+but it is equally useful to consider a full range of responses from 
+desirable to undesirable. Experience teaches us how to moderate the 
+dose to achieve a desired result or avoid an undesirable effect.
+
+
+Paracelsus stated correctly that the “... dose differentiates a poison 
+from a remedy”, it is the individual that must constantly be aware of the dose 
+and their particular response.
+
+
+Dose is the amount of exposure to an agent, a quantitative measure of the 
+exposure related to the subject or individual. For a chemical agent or drug 
+the dose is the amount of the material in relation to body weight. 
+Typically, the amount of material is measured in grams or thousandths of a gram
+(milligrams, mg) and body weight is measured in kilograms (kg), 
+equal to one thousand grams. The dose is the amount of material consumed divided by
+body weight or mg/kg.
+
+Calculate the dose
+```
+amt_mg = amount of material consumed (mg)
+wt_kg = body weight in (kg)
+
+oral_dose = amt_mg / wt_kg
+```
+
+### Coffee Caffeine Example
+
+There are approximately 100 mg of caffeine in a cup of coffee. The actual amount
+of caffeine in a cup of coffee depends on the coffee bean, how the coffee was prepared
+and the size of the cup. Let us use an adult weighing 155 lbs (about 70 kg) 
+consuming this one-cup of coffee.
+
+```{r}
+# kg = lbs / 2.205
+
+amt_mg = 100
+wt_kg =  70.30
+
+oral_dose = function(amt_mg, wt_kg){
+  dose = amt_mg / wt_kg
+  glue::glue("Oral Dose = {round(dose,2)} mg/kg")
+}
+
+oral_dose(amt_mg, wt_kg)
+```
+This adult would receive a dose of 1.42 mg/kg of caffeine. 
+
+
+
+### Difficulties with dose calculations
+
+For our example of coffee caffeine:
+
+- determining the exact amount of exposure to the agent
+- amount of caffeine in a cup of coffee varies 
+- the coffee bean type 
+- brewing method
+- size of the cup
+
+
+Analytical chemists can accurately determine the amount of a specific 
+agent in a material. 
+Some foods, such as table salt or sugar, are relatively pure and the 
+dose easily calculated by weighing the material. Package labeling usually 
+indicates how many milligrams of the drug each pill contains, so the dose can 
+be calculated.
+
+
+
+Calculating the dose following workplace or environmental exposure can be far more
+difficult. If the agent is in the air, then calculation of the dose must 
+consider not only the concentration in the air but also the duration of 
+the exposure, rate of breathing and body weight. The amount of air inhaled over a
+period of time is estimated from laboratory data. Given this information, it is
+possible to estimate the dose according to the following formula:
+
+Airborne agent
+```
+inhal_dose    = Inhalation dose (mg/kg)
+air_concent   = Air concentration of agent (mg/ml)
+vol_air       = volume of air inhaled per hour (ml/hr)
+dur_expos     = duration of exposure (hr)
+b_wt          = body weight (kg)
+
+inhal_dose = air_concent * vol_air * dur_expos / b_wt
+```
+
+
+For non-chemical exposures, other variables and different units of measurement are
+required. Workplace and environmental exposures are often repeated and ongoing 
+over an extended period of time. The health effects of repeated long-term exposures 
+can be very different from one short-term exposure.
+
+
+
+### Acute vs Chronic
+
+For many drugs, we are looking for the immediate or acute response 
+following exposure. We consume common painkillers with the desire to 
+quickly stop our headache. Long-term repeated use, however, can have 
+undesirable effects on the stomach or liver.
+
+- `Acute exposure` -  is a single or very limited number of exposures over a short period of time. 
+
+- `Chronic exposure` is repeated exposure over a long period of time. 
+
+
+There is often a range of responses associated with any particular agent. 
+
+- The response that occurs will vary with the dose
+- the duration of exposure
+- the individual
+
+The acute response to a single dose is often the easiest to characterize, 
+but the response to multiple exposures over a long period of time may be 
+the most important. For a long time, it was thought that the only serious
+complication from childhood lead exposure was death resulting from high 
+exposure. Subsequent research demonstrated that even small amounts of lead 
+exposure during childhood could result in brain damage that lasts a lifetime.
+Determining what responses are most important is a central aspect of many 
+debates in toxicology.
+
+
+
+## Demonstrating Dose Response
+
+In general, it is true that for any individual, the greater the dose the 
+greater the response.  It is important to know if a substance distributes 
+into body water because we made up of approximately 75% water.
+An individual’s response to the caffeine varies with the dose and 
+corresponding amount of circulating caffeine. Body size is a critical factor 
+in determining dose and any subsequent response.
+
+
+```{r,warning=FALSE, echo=F, collapse=TRUE, message=FALSE}
+library(tidyverse)
+
+wine = data.frame(
+  difficulty_walking = c(0,0,10,25,40,60,77,90,100),
+  glasses_of_wine = seq(0,8)
+)
+
+wine %>% 
+  ggplot( aes(x= glasses_of_wine, y= difficulty_walking)) +
+  geom_line() +
+  geom_point( col='orange', size=3)+
+  scale_x_continuous(breaks = 0:8)+
+  labs(title= 'Dose Response for Drinking Wine',
+       x= 'Glasses of Wine',
+       y='% Difficulty Walking')+
+  ggdark::dark_mode()
+```
+
+
+This plot illustrates the critical relationship between dose and response. 
+In this case, we define the response as difficulty in walking and the dose of
+or exposure to alcohol as a glass of wine. 
+To change from exposure to dose we would need to know the body weight and 
+amount of alcohol in the glass of wine.
+
+
+In toxicology, the dose at which one half or 50% of the population is affected 
+is often calculated and used to compare the toxicity of different agents. 
+In this example, 50% of the population is affected after exposure to 4.5 
+glasses of wine. 
+
+```{r, warning=FALSE, echo=F, collapse=TRUE, message=FALSE}
+library(paletteer)
+
+wine2 = data.frame(
+  response = c(0,2,10,15,45,70,77,80,95,97,100),
+  dose = seq(0,100, 10)
+)
+
+wine2 %>% 
+  ggplot( aes(x= dose, y= response, col= response))+
+  geom_line(show.legend = F)+
+  geom_point(size= 3, show.legend = F)+
+  ggdark::dark_mode()+
+  scale_x_continuous(breaks = seq(0,100,10) )+
+  labs(x="Dose (mg/kg)", y="% Response", title = "An Idealized Dose/Response")+
+  scale_color_paletteer_c(`"ggthemes::Orange-Blue-White Diverging"`, direction = -1)
+
+```
+For doses less than 30 mg/kg have no effect and doses above 50 mg/kg effect half 
+the people. The “S”’-shaped idealized dose / response plot, which is typical
+of most types of exposure. This “S” shaped cure illustrates that at low doses 
+there is little or no response while at high doses all individuals respond 
+or demonstrate the effect. In this situation, 50% of the subjects respond at a 
+dose of 42 mg/kg, while 99% of the subjects responded at 90 mg/kg. 
+
+
+It is important to emphasize that if we repeat this experiment the results 
+would be slightly different. Each individual varies from one time to the next 
+and there is even greater variability between individuals.
+Variability is a consistent theme in biology, complicating data analysis 
+and interpretation of results. These variations lead to the need for 
+statistical evaluation of data.
+
+
+
+
+## Hazard and Risk
+
+The biological effects of an agent often span a broad range from 
+beneficial to harmful, depending on the dose and individual sensitivity. 
+The scientific discipline of toxicology developed in an effort to understand 
+and characterize the potentially harmful or hazardous properties of an agent. 
+
+Risk is the probability of:
+
+- injury
+- disease
+- loss of function
+- death for an individual or population exposed to a hazardous substance or situation. 
+
+An agent or situation that can produce or cause a harmful or adverse effect is a Hazard. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
